@@ -1,0 +1,849 @@
+ruta,contraste,lfc,se,W,p,q,diff,diff_robust,passed_ss,descripcion
+PWY0-862,Mod vs Con,2.3752478083,0.4545488307,5.2255063653,6.5509e-06,0.002777578,True,True,True,(5Z)-dodecenoate biosynthesis I
+PWY-5531,Mod vs Con,1.8500960418,0.3302268675,5.6025000496,0.000115678,0.0107368596,True,True,True,"3,8-divinyl-chlorophyllide a biosynthesis II (anaerobic)"
+PWY-5705,Mod vs Con,1.3344079015,0.3130636745,4.2624169147,0.0001286595,0.0107368596,True,False,False,allantoin degradation to glyoxylate III
+PWY-6859,Mod vs Con,0.8838094695,0.2080025641,4.2490316093,0.000133969,0.0107368596,True,False,False,all-trans-farnesol biosynthesis
+PWY-6961,Mod vs Con,1.7738678022,0.422893361,4.1945983687,0.000163779,0.0107368596,True,True,True,"L-ascorbate degradation II (bacterial, aerobic)"
+PWY-7854,Mod vs Con,1.4243745947,0.2749939585,5.1796577731,0.0001772595,0.0107368596,True,False,False,crotonyl-CoA/ethylmalonyl-CoA/hydroxybutyryl-CoA cycle (engineered)
+PWY0-41,Mod vs Con,1.3774845219,0.3222020174,4.2752200403,0.000123774,0.0107368596,True,False,False,allantoin degradation IV (anaerobic)
+PWY-5692,Mod vs Con,1.3520140755,0.3329133745,4.061158785,0.0002354263,0.011091196,True,False,False,allantoin degradation to glyoxylate II
+URDEGR-PWY,Mod vs Con,1.3520140755,0.3329133745,4.061158785,0.0002354263,0.011091196,True,False,False,superpathway of allantoin degradation in plants
+PWY-7031,Mod vs Con,-2.6457709201,0.2950091949,-8.968435446,0.0002874365,0.0121873093,True,False,False,protein N-glycosylation (bacterial)
+PROTOCATECHUATE-ORTHO-CLEAVAGE-PWY,Mod vs Con,-1.184526815,0.3126429465,-3.7887527233,0.000525654,0.0178700333,True,True,True,protocatechuate degradation II (ortho-cleavage pathway)
+PWY-1622,Mod vs Con,1.0566579376,0.2836484507,3.7252378253,0.0006321946,0.0178700333,True,False,False,formaldehyde assimilation I (serine pathway)
+PWY-5104,Mod vs Con,1.3586596305,0.3590245443,3.7843084881,0.0005980992,0.0178700333,True,False,False,L-isoleucine biosynthesis IV
+PWY-5654,Mod vs Con,1.2469596093,0.2814120124,4.4310816682,0.0005697243,0.0178700333,True,True,True,2-amino-3-carboxymuconate semialdehyde degradation to 2-hydroxypentadienoate
+PWY-7392,Mod vs Con,0.5613969123,0.149103072,3.7651599311,0.0005630255,0.0178700333,True,False,False,taxadiene biosynthesis (engineered)
+TYRFUMCAT-PWY,Mod vs Con,1.1590182024,0.3003357524,3.8590750285,0.0007517296,0.0199208347,True,False,False,L-tyrosine degradation I
+POLYAMINSYN3-PWY,Mod vs Con,0.6094488691,0.1683351428,3.6204494148,0.0008550797,0.0204137172,True,False,False,superpathway of polyamine biosynthesis II
+PWY-7117,Mod vs Con,0.721251076,0.1994736154,3.6157718121,0.0008666201,0.0204137172,True,False,False,"C4 photosynthetic carbon assimilation cycle, PEPCK type"
+PENTOSE-P-PWY,Mod vs Con,0.6054823523,0.1685560901,3.5921713182,0.0009271723,0.0204949329,True,False,False,pentose phosphate pathway
+PWY-5647,Mod vs Con,1.2526345873,0.2919031546,4.2912677287,0.0010479322,0.0204949329,True,True,True,2-nitrobenzoate degradation I
+PWY-5910,Mod vs Con,1.3480892477,0.3617757778,3.7263115183,0.001048949,0.0204949329,True,True,True,superpathway of geranylgeranyldiphosphate biosynthesis I (via mevalonate)
+PWY-922,Mod vs Con,1.3472466773,0.3620815651,3.7208375325,0.0010634163,0.0204949329,True,True,True,mevalonate pathway I (eukaryotes and bacteria)
+PWY-241,Mod vs Con,0.7016196411,0.1991104206,3.5237715785,0.0011265558,0.020767812,True,False,False,"C4 photosynthetic carbon assimilation cycle, NADP-ME type"
+LACTOSECAT-PWY,Mod vs Con,0.883239459,0.2574881728,3.4302137047,0.0014669508,0.0234934237,True,False,False,lactose and galactose degradation I
+POLYAMSYN-PWY,Mod vs Con,0.5614268777,0.1658298977,3.3855588507,0.0016622705,0.0234934237,True,False,False,superpathway of polyamine biosynthesis I
+PWY-5022,Mod vs Con,0.6236322391,0.1802852535,3.4591417047,0.0013523651,0.0234934237,True,False,False,4-aminobutanoate degradation V
+PWY-5652,Mod vs Con,1.3386775621,0.2882362607,4.6443759665,0.0016567516,0.0234934237,True,False,False,2-amino-3-carboxymuconate semialdehyde degradation to glutaryl-CoA
+PWY-7783,Mod vs Con,1.4577440802,0.4282432113,3.4040097813,0.0016100467,0.0234934237,True,False,False,plasmalogen degradation
+PWY-7900,Mod vs Con,1.1328493524,0.3224436497,3.513325052,0.0015784438,0.0234934237,True,True,True,glycogen biosynthesis III (from &alpha;-maltose 1-phosphate)
+PWY-8020,Mod vs Con,1.4140967931,0.3149612234,4.4897488587,0.0015110644,0.0234934237,True,False,False,D-xylose degradation V
+PWY-I9,Mod vs Con,0.7869250692,0.2357724003,3.3376471042,0.001899409,0.0259790133,True,False,False,L-cysteine biosynthesis VI (from L-methionine)
+PWY490-3,Mod vs Con,1.014465772,0.3059019163,3.3163106143,0.0020151098,0.0267002044,True,False,False,nitrate reduction VI (assimilatory)
+CHLOROPHYLL-SYN,Mod vs Con,1.279040254,0.3450543114,3.7067795173,0.0023456264,0.027028134,True,True,True,"3,8-divinyl-chlorophyllide a biosynthesis I (aerobic, light-dependent)"
+GLYCOCAT-PWY,Mod vs Con,2.0766276548,0.6357517541,3.2664127804,0.0023528351,0.027028134,True,False,False,glycogen degradation I
+PWY-5519,Mod vs Con,1.6381260692,0.3250731743,5.0392533086,0.0023585872,0.027028134,True,False,False,D-arabinose degradation III
+PWY-7013,Mod vs Con,1.2939726775,0.3946126844,3.2790954997,0.0022331717,0.027028134,True,False,False,"(S)-propane-1,2-diol degradation"
+PWY-8011,Mod vs Con,0.9671166173,0.296543771,3.2612946623,0.0023452544,0.027028134,True,False,False,L-serine biosynthesis II
+PWY-6270,Mod vs Con,0.458114046,0.1412176862,3.2440274193,0.0024590783,0.0274381368,True,False,False,isoprene biosynthesis I
+ALLANTOINDEG-PWY,Mod vs Con,1.2692248839,0.3968654028,3.1981242886,0.0027877622,0.0303079784,True,False,False,superpathway of allantoin degradation in yeast
+PWY-5913,Mod vs Con,0.9298198442,0.2929666555,3.1738077583,0.0029783682,0.0315707033,True,False,False,partial TCA cycle (obligate autotrophs)
+ARG+POLYAMINE-SYN,Mod vs Con,0.4825685579,0.1548521284,3.116318535,0.0034793104,0.0343093968,True,False,False,superpathway of arginine and polyamine biosynthesis
+NADSYN-PWY,Mod vs Con,1.1232124807,0.3007453919,3.7347620639,0.0038798313,0.0343093968,True,True,True,NAD de novo biosynthesis II (from tryptophan)
+P101-PWY,Mod vs Con,1.1578412351,0.300641517,3.8512353403,0.0038989441,0.0343093968,True,False,False,ectoine biosynthesis
+P341-PWY,Mod vs Con,1.8539812861,0.5704285875,3.2501549306,0.0038300146,0.0343093968,True,True,True,glycolysis V (Pyrococcus)
+P4-PWY,Mod vs Con,0.5729101652,0.1867604132,3.0676209985,0.0039650011,0.0343093968,True,False,False,"superpathway of L-lysine, L-threonine and L-methionine biosynthesis I"
+PWY-4321,Mod vs Con,1.0114368985,0.2825261399,3.5799763476,0.0037824341,0.0343093968,True,False,False,L-glutamate degradation IV
+PWY-5005,Mod vs Con,1.0490060295,0.3370336273,3.1124669604,0.0035683002,0.0343093968,True,False,False,biotin biosynthesis II
+PWY-7328,Mod vs Con,-0.6434969045,0.2062066659,-3.1206406527,0.0034390358,0.0343093968,True,True,True,superpathway of UDP-glucose-derived O-antigen building blocks biosynthesis
+PWY0-781,Mod vs Con,0.5699668592,0.18449112,3.0893999622,0.0037403611,0.0343093968,True,False,False,aspartate superpathway
+PWY-5651,Mod vs Con,1.1228698701,0.3036160707,3.6983215921,0.0041198866,0.0349366386,True,True,True,L-tryptophan degradation to 2-amino-3-carboxymuconate semialdehyde
+GOLPDLCAT-PWY,Mod vs Con,0.8947850907,0.2963216783,3.0196410054,0.0045056019,0.0360448148,True,False,False,"superpathway of glycerol degradation to 1,3-propanediol"
+PWY-801,Mod vs Con,0.8677528678,0.2871109284,3.0223609833,0.0044731852,0.0360448148,True,False,False,homocysteine and cysteine interconversion
+PWY-8187,Mod vs Con,0.6162408501,0.2033611482,3.0302781796,0.004380074,0.0360448148,True,False,False,L-arginine degradation XIII (reductive Stickland reaction)
+HISDEG-PWY,Mod vs Con,-0.7041553164,0.234075867,-3.0082354299,0.004643957,0.0364636625,True,True,True,L-histidine degradation I
+PWY-5741,Mod vs Con,1.4339529946,0.2981118888,4.8101167664,0.0048403286,0.0372501669,True,False,False,ethylmalonyl-CoA pathway
+PWY-6396,Mod vs Con,0.8573342908,0.2870778763,2.9864171424,0.0049198334,0.0372501669,True,False,False,"superpathway of 2,3-butanediol biosynthesis"
+PWY-2941,Mod vs Con,0.5530576506,0.1867193761,2.961972464,0.0052471923,0.0390317462,True,False,False,L-lysine biosynthesis II
+PWY-6292,Mod vs Con,0.6563999029,0.2227768328,2.9464459774,0.0054656276,0.0399556227,True,False,False,superpathway of L-cysteine biosynthesis (mammalian)
+MET-SAM-PWY,Mod vs Con,0.6600781327,0.2259643489,2.9211605098,0.0058397071,0.041966709,True,False,False,superpathway of S-adenosyl-L-methionine biosynthesis
+HOMOSER-METSYN-PWY,Mod vs Con,0.7269679815,0.2503936516,2.9033003709,0.0061182502,0.0428111811,True,False,False,L-methionine biosynthesis I
+PWY0-162,Mod vs Con,0.4598132161,0.1585157297,2.9007418811,0.0061591558,0.0428111811,True,False,False,superpathway of pyrimidine ribonucleotides de novo biosynthesis
+PWY-1361,Mod vs Con,0.980874055,0.2989470153,3.2810966651,0.0065667648,0.0449081979,True,False,False,benzoyl-CoA degradation I (aerobic)
+METSYN-PWY,Mod vs Con,0.6680806582,0.2338782256,2.8565320964,0.0069076727,0.0464897338,True,False,False,superpathway of L-homoserine and L-methionine biosynthesis
+FAO-PWY,Mod vs Con,1.5931553464,0.5632362707,2.8285737786,0.0075937518,0.048805672,True,False,False,fatty acid &beta;-oxidation I (generic)
+PWY-5030,Mod vs Con,-0.6341928391,0.2249224971,-2.819606074,0.0075971093,0.048805672,True,True,True,L-histidine degradation III
+PWY-5347,Mod vs Con,0.6477454083,0.2290227251,2.8283018984,0.0074292059,0.048805672,True,False,False,superpathway of L-methionine biosynthesis (transsulfuration)
+PWY-7159,Mod vs Con,0.9586952542,0.3002400762,3.1930955601,0.0077309717,0.0489243584,True,False,False,"3,8-divinyl-chlorophyllide a biosynthesis III (aerobic, light independent)"
+GALACTITOLCAT-PWY,Mod vs Con,0.4725399114,0.1694887475,2.7880311721,0.0082369554,0.0506742416,False,False,True,galactitol degradation
+HEXITOLDEGSUPER-PWY,Mod vs Con,0.7865575222,0.282710936,2.7821970149,0.0083605354,0.0506742416,False,False,True,superpathway of hexitol degradation (bacteria)
+PWY-5723,Mod vs Con,-1.0116586415,0.3653953515,-2.768668614,0.0086537595,0.0506742416,False,False,False,Rubisco shunt
+PWY-7377,Mod vs Con,0.6797546501,0.244426034,2.7810239314,0.0083855911,0.0506742416,False,False,True,"cob(II)yrinate a,c-diamide biosynthesis I (early cobalt insertion)"
+PWY-822,Mod vs Con,1.078497117,0.3899875716,2.7654653524,0.0087245746,0.0506742416,False,False,True,fructan biosynthesis
+PWY0-42,Mod vs Con,1.2312087543,0.4425878257,2.7818405362,0.0085496115,0.0506742416,False,False,True,2-methylcitrate cycle I
+PWY-6901,Mod vs Con,0.3923989254,0.1437981226,2.7288181398,0.009573948,0.0541247192,False,False,True,superpathway of glucose and xylose degradation
+PWY-8131,Mod vs Con,1.5244747533,0.5316136952,2.867636344,0.00951634,0.0541247192,False,False,False,5'-deoxyadenosine degradation II
+PWY-7356,Mod vs Con,0.4377106483,0.1609962011,2.7187638302,0.0098200329,0.0547854466,False,False,True,thiamine diphosphate salvage IV (yeast)
+REDCITCYC,Mod vs Con,0.8618938976,0.3186265602,2.7050284107,0.0101656909,0.055977311,False,False,True,TCA cycle VI (Helicobacter)
+HEME-BIOSYNTHESIS-II,Mod vs Con,0.8073494075,0.3003429155,2.6880920632,0.0106073982,0.0569308461,False,False,True,heme b biosynthesis I (aerobic)
+PWY-5918,Mod vs Con,0.7311138019,0.2717812879,2.6900814526,0.0105546093,0.0569308461,False,False,True,superpathway of heme b biosynthesis from glutamate
+GLUCARDEG-PWY,Mod vs Con,1.0016627001,0.3767162073,2.658931792,0.0114097031,0.0604714264,False,False,True,D-glucarate degradation I
+PWY-6293,Mod vs Con,0.7019916868,0.2650316391,2.6487089969,0.0117039785,0.0612652702,False,False,True,superpathway of L-cysteine biosynthesis (fungi)
+PWY-6595,Mod vs Con,0.7491696579,0.2845690887,2.6326459465,0.0121805393,0.062982301,False,False,True,superpathway of guanosine nucleotides degradation (plants)
+P381-PWY,Mod vs Con,0.8291802718,0.291603527,2.8435193505,0.0130152119,0.0662712996,False,False,True,adenosylcobalamin biosynthesis II (aerobic)
+PWY-5920,Mod vs Con,1.2583072904,0.4822150708,2.6094316966,0.0131292197,0.0662712996,False,False,True,superpathway of heme b biosynthesis from glycine
+PWY-6803,Mod vs Con,-0.5225979947,0.202203169,-2.5845193097,0.0137173812,0.0676298794,False,False,False,phosphatidylcholine acyl editing
+PWY0-321,Mod vs Con,0.8546702738,0.3032284924,2.8185684895,0.0136712287,0.0676298794,False,False,True,phenylacetate degradation I (aerobic)
+LIPASYN-PWY,Mod vs Con,-0.5434358919,0.2125049153,-2.5572862215,0.0147822414,0.0712235267,False,False,False,phospholipases
+PWY-6607,Mod vs Con,0.8038367373,0.3146389302,2.5547910956,0.0147536666,0.0712235267,False,False,True,guanosine nucleotides degradation I
+PWY-7254,Mod vs Con,0.6841634016,0.2699118184,2.5347663752,0.0154916203,0.0738027752,False,False,True,TCA cycle VII (acetate-producers)
+PWY-6305,Mod vs Con,0.3933825617,0.1555073896,2.5296711798,0.0156847035,0.073892381,False,False,True,superpathway of putrescine biosynthesis
+CITRULBIO-PWY,Mod vs Con,0.4315599755,0.1741078795,2.4786929625,0.0177412282,0.0811802343,False,False,True,L-citrulline biosynthesis
+PWY-6891,Mod vs Con,0.7907215935,0.2936790067,2.6924689046,0.0175129844,0.0811802343,False,False,True,thiazole component of thiamine diphosphate biosynthesis II
+PWY-7332,Mod vs Con,-1.2922938972,0.4893878012,-2.6406336529,0.017806042,0.0811802343,False,False,True,superpathway of UDP-N-acetylglucosamine-derived O-antigen building blocks biosynthesis
+P461-PWY,Mod vs Con,0.9293559297,0.3899242995,2.3834265547,0.0222542224,0.0995639053,False,False,True,"hexitol fermentation to lactate, formate, ethanol and acetate"
+RUMP-PWY,Mod vs Con,1.0788237927,0.4528302831,2.3824020457,0.0223079505,0.0995639053,False,False,True,formaldehyde oxidation I
+GLYCOL-GLYOXDEG-PWY,Mod vs Con,1.4225308668,0.6002472036,2.3699083614,0.0232722606,0.1004374388,False,False,True,superpathway of glycol metabolism and degradation
+P125-PWY,Mod vs Con,0.8269493598,0.3508749322,2.3568208611,0.0236880752,0.1004374388,False,False,True,"superpathway of (R,R)-butanediol biosynthesis"
+P23-PWY,Mod vs Con,0.4064195126,0.1722321881,2.3597186868,0.023527956,0.1004374388,False,False,True,reductive TCA cycle I
+PWY-5136,Mod vs Con,1.2829749615,0.540645343,2.3730435824,0.0231028468,0.1004374388,False,False,True,fatty acid &beta;-oxidation II (plant peroxisome)
+PWY-6749,Mod vs Con,-0.3998634239,0.1691975376,-2.3632933997,0.023331781,0.1004374388,False,False,False,CMP-legionaminate biosynthesis I
+NAD-BIOSYNTHESIS-II,Mod vs Con,1.8044995116,0.7680702912,2.3493937107,0.0242515988,0.101808692,False,False,True,NAD salvage pathway III (to nicotinamide riboside)
+PWY-6501,Mod vs Con,0.8072552476,0.3066397299,2.6325853072,0.0250507517,0.1041325366,False,False,True,D-glucuronate degradation II
+P562-PWY,Mod vs Con,0.9107513831,0.3907879456,2.3305513728,0.0253364532,0.1042976327,False,False,True,myo-inositol degradation I
+PWY-5989,Mod vs Con,0.5144012924,0.2230154009,2.3065729553,0.0266251916,0.1075258293,False,False,True,stearate biosynthesis II (bacteria and plants)
+PWY-7094,Mod vs Con,1.2575888944,0.5440083573,2.3117087772,0.0266278587,0.1075258293,False,False,True,fatty acid salvage
+PWY-3481,Mod vs Con,-0.8266951453,0.2962433984,-2.7905943213,0.0268853402,0.1075413608,False,False,True,superpathway of L-phenylalanine and L-tyrosine biosynthesis
+GLUDEG-I-PWY,Mod vs Con,0.4273180202,0.186818732,2.2873403297,0.0278332986,0.1102926974,False,False,True,GABA shunt
+DENITRIFICATION-PWY,Mod vs Con,0.7591782885,0.3267725097,2.3232624105,0.0289608388,0.1108212655,False,False,True,nitrate reduction I (denitrification)
+PWY-4984,Mod vs Con,0.4267547329,0.1880572129,2.2692813872,0.0290121709,0.1108212655,False,False,True,urea cycle
+PWY-6263,Mod vs Con,0.7375548644,0.3247867645,2.2708895342,0.0289054085,0.1108212655,False,False,True,superpathway of menaquinol-8 biosynthesis II
+PWY-6435,Mod vs Con,1.1667011718,0.5109810128,2.2832573865,0.0284217588,0.1108212655,False,False,True,4-hydroxybenzoate biosynthesis III (plants)
+PWY0-1415,Mod vs Con,1.1502929954,0.5125485893,2.2442613624,0.030883256,0.1169151836,False,False,True,superpathway of heme b biosynthesis from uroporphyrinogen-III
+PWY-5747,Mod vs Con,1.2159977701,0.5452836659,2.2300278663,0.0324541877,0.1217750051,False,False,True,2-methylcitrate cycle II
+PWY-7118,Mod vs Con,1.4585653859,0.6577644774,2.2174584308,0.0329921545,0.1227076624,False,False,True,chitin deacetylation
+PWY-6676,Mod vs Con,0.7243885189,0.2939550552,2.4642832509,0.0334304502,0.1232566163,False,False,False,superpathway of sulfide oxidation (phototrophic sulfur bacteria)
+DHGLUCONATE-PYR-CAT-PWY,Mod vs Con,1.1654185406,0.5270251197,2.2113149774,0.034051997,0.1243324027,False,False,True,glucose degradation (oxidative)
+PWY-6471,Mod vs Con,0.5053976834,0.2302011231,2.1954614145,0.0343087055,0.1243324027,False,False,True,peptidoglycan biosynthesis IV (Enterococcus faecium)
+PWY-702,Mod vs Con,0.3665638905,0.1683047581,2.1779769908,0.0356827249,0.1282158929,False,False,True,L-methionine biosynthesis II
+PWY-6936,Mod vs Con,0.4203845193,0.1939883414,2.1670607435,0.0365651268,0.1302824688,False,False,True,seleno-amino acid biosynthesis (plants)
+SALVADEHYPOX-PWY,Mod vs Con,0.6920224438,0.3223174899,2.1470210756,0.0382354277,0.1350985112,False,False,True,adenosine nucleotides degradation II
+PWY66-389,Mod vs Con,0.3623060922,0.1690943375,2.1426269949,0.0386105661,0.1352965293,False,False,True,phytol degradation
+PWY-7373,Mod vs Con,0.8042471552,0.3760428165,2.1387116568,0.0389475684,0.1353587625,False,False,True,superpathway of demethylmenaquinol-6 biosynthesis II
+KETOGLUCONMET-PWY,Mod vs Con,-0.9534909705,0.439535606,-2.1693145161,0.0393863898,0.1355908145,False,False,True,ketogluconate metabolism
+PWY0-1297,Mod vs Con,0.3116027907,0.1462511018,2.130601321,0.0396539175,0.1355908145,False,False,True,superpathway of purine deoxyribonucleosides degradation
+PWY-6185,Mod vs Con,0.7126503941,0.3112041636,2.2899770552,0.0409332313,0.1382664054,False,False,True,4-methylcatechol degradation (ortho cleavage)
+PWY0-1241,Mod vs Con,0.3894957307,0.1842011453,2.1145130778,0.0410886016,0.1382664054,False,False,True,ADP-L-glycero-&beta;-D-manno-heptose biosynthesis
+PWY-7371,Mod vs Con,0.8254830945,0.3915626828,2.1081761125,0.0416661397,0.1391058523,False,False,True,"1,4-dihydroxy-6-naphthoate biosynthesis II"
+GLYOXYLATE-BYPASS,Mod vs Con,1.2653722436,0.6044386773,2.0934667007,0.0434142475,0.1438096948,False,False,True,glyoxylate cycle
+PWY-7316,Mod vs Con,-0.4746239533,0.2278002095,-2.0835097311,0.043982756,0.1445634772,False,False,False,dTDP-N-acetylviosamine biosynthesis
+PWY-7374,Mod vs Con,0.791780173,0.3845211732,2.0591328339,0.0463824936,0.1512782869,False,False,True,"1,4-dihydroxy-6-naphthoate biosynthesis I"
+METH-ACETATE-PWY,Mod vs Con,1.213458016,0.594077724,2.0425913426,0.0480754596,0.1551634708,False,False,True,methanogenesis from acetate
+PWY-6353,Mod vs Con,0.638523111,0.3129429131,2.040382077,0.0483056088,0.1551634708,False,False,True,purine nucleotides degradation II (aerobic)
+PWY-7992,Mod vs Con,0.6891765475,0.3394489437,2.03028043,0.0493702425,0.1573908483,False,False,True,superpathway of menaquinol-8 biosynthesis III
+PWY-5100,Mod vs Con,0.3141645816,0.1556127567,2.0188870646,0.0505955197,0.1589074101,False,False,True,pyruvate fermentation to acetate and lactate II
+PWY-5860,Mod vs Con,0.4391090642,0.2174305108,2.0195374724,0.0505248665,0.1589074101,False,False,True,superpathway of demethylmenaquinol-6 biosynthesis I
+PWY-1861,Mod vs Con,0.9798760169,0.486914063,2.0124208589,0.0513026317,0.1599434987,False,False,True,formaldehyde assimilation II (assimilatory RuMP Cycle)
+CODH-PWY,Mod vs Con,1.2036027901,0.5991106455,2.0089824797,0.051682127,0.1599505244,False,False,True,reductive acetyl coenzyme A pathway I (homoacetogenic bacteria)
+UDPNAGSYN-PWY,Mod vs Con,0.2844974601,0.1419540663,2.0041515366,0.0522194452,0.1604423535,False,False,True,UDP-N-acetyl-D-glucosamine biosynthesis I
+GALACTARDEG-PWY,Mod vs Con,0.342917413,0.1724568182,1.9884247935,0.0540024171,0.1626864646,False,False,True,D-galactarate degradation I
+GLUCARGALACTSUPER-PWY,Mod vs Con,0.342917413,0.1724568182,1.9884247935,0.0540024171,0.1626864646,False,False,True,superpathway of D-glucarate and D-galactarate degradation
+PWY-6895,Mod vs Con,0.3730473251,0.1876902392,1.9875691277,0.0541009234,0.1626864646,False,False,True,superpathway of thiamine diphosphate biosynthesis II
+PWY-6307,Mod vs Con,0.9656142729,0.4846413228,1.9924307473,0.0558115973,0.1628435936,False,False,True,"L-tryptophan degradation X (mammalian, via tryptamine)"
+PWY-6608,Mod vs Con,0.6618969066,0.334692238,1.9776284943,0.0552567862,0.1628435936,False,False,True,guanosine nucleotides degradation III
+PWY-7446,Mod vs Con,0.9690019172,0.3192399428,3.0353404672,0.0560735016,0.1628435936,False,False,True,sulfoquinovose degradation I
+PWY-7674,Mod vs Con,-0.7466064116,0.3133215079,-2.3828763513,0.0545536526,0.1628435936,False,False,True,"CMP-8-amino-3,8-dideoxy-D-manno-octulosonate biosynthesis"
+PWY-7874,Mod vs Con,1.2441297462,0.6273823572,1.9830486655,0.0554869981,0.1628435936,False,False,True,L-threonate degradation
+P441-PWY,Mod vs Con,0.6088030933,0.3112004349,1.9563054063,0.0578085333,0.1667402593,False,False,True,superpathway of N-acetylneuraminate degradation
+GALLATE-DEGRADATION-II-PWY,Mod vs Con,-0.6354026067,0.2891360039,-2.1975907468,0.05921596,0.1685071612,False,False,True,gallate degradation I
+PWY0-301,Mod vs Con,0.4993403131,0.2563773612,1.9476770915,0.0588696785,0.1685071612,False,False,True,"L-ascorbate degradation I (bacterial, anaerobic)"
+PWY-7873,Mod vs Con,1.2435133829,0.6381450861,1.9486374023,0.0596299708,0.1685540509,False,False,True,D-erythronate degradation II
+PWY-5367,Mod vs Con,0.5748968013,0.2795568422,2.0564576303,0.0603890576,0.1695692743,False,False,True,petroselinate biosynthesis
+PWY-6962,Mod vs Con,-0.7815254824,0.3032621617,-2.5770622949,0.0615179606,0.1716027323,False,False,True,superpathway of trimethylamine degradation
+PWY-4702,Mod vs Con,0.914604087,0.4783480136,1.9120056132,0.0638595862,0.1769703565,False,False,True,phytate degradation I
+CARNMET-PWY,Mod vs Con,0.6899633438,0.3627705926,1.901927438,0.0647812633,0.1783588027,False,False,True,L-carnitine degradation I
+ANAEROFRUCAT-PWY,Mod vs Con,0.269683116,0.1436192774,1.8777640509,0.0681042349,0.1854361432,False,False,True,homolactic fermentation
+PWY-7237,Mod vs Con,0.5755578624,0.3066543734,1.8768943551,0.0682265055,0.1854361432,False,False,True,"myo-, chiro- and scyllo-inositol degradation"
+PWY-6313,Mod vs Con,0.9504634918,0.5113849924,1.8586065409,0.0708413745,0.1913168331,False,False,True,serotonin degradation
+PWY-5850,Mod vs Con,0.3808837753,0.2056078636,1.8524766937,0.0717367584,0.1925087695,False,False,True,superpathway of menaquinol-6 biosynthesis
+PWY-6143,Mod vs Con,0.7387562469,0.403825475,1.8293948567,0.0751952745,0.2005207319,False,False,True,CMP-pseudaminate biosynthesis
+PWY-7255,Mod vs Con,0.6377707036,0.3128508239,2.03857767,0.0758410689,0.2009788326,False,False,True,ergothioneine biosynthesis I (bacteria)
+PWY-5138,Mod vs Con,1.3012527442,0.7164586084,1.8162287798,0.0779088362,0.2014228448,False,False,True,"fatty acid &beta;-oxidation IV (unsaturated, even number)"
+PWY-5154,Mod vs Con,-0.3626692593,0.200062803,-1.8127770571,0.077772004,0.2014228448,False,False,False,L-arginine biosynthesis III (via N-acetyl-L-citrulline)
+PWY-8190,Mod vs Con,0.660062549,0.3633882589,1.8164113253,0.0772021794,0.2014228448,False,False,True,L-glutamate degradation XI (reductive Stickland reaction)
+PWY0-1477,Mod vs Con,0.6153758773,0.3382033357,1.8195440799,0.0767138307,0.2014228448,False,False,True,ethanolamine utilization
+PWY-6992,Mod vs Con,0.7696133364,0.2944811218,2.6134555986,0.0794479517,0.2033092913,False,False,True,"1,5-anhydrofructose degradation"
+PWY-7072,Mod vs Con,0.5254508306,0.2806847931,1.8720317005,0.0795975056,0.2033092913,False,False,True,hopanoid biosynthesis (bacteria)
+PWY-6071,Mod vs Con,0.7254429335,0.3749027121,1.9350164994,0.0817528217,0.2075640503,False,False,True,superpathway of phenylethylamine degradation
+PWY-5180,Mod vs Con,-0.7458287173,0.4025911903,-1.8525708838,0.082482141,0.2081692129,False,False,True,toluene degradation I (aerobic) (via o-cresol)
+PWY66-388,Mod vs Con,0.6607894591,0.318739503,2.0731332417,0.0835245407,0.2095526938,False,False,True,ceramide degradation by &alpha;-oxidation
+METHGLYUT-PWY,Mod vs Con,1.2882114116,0.7284387524,1.768455354,0.0857006548,0.2137475155,False,False,True,superpathway of methylglyoxal degradation
+PWY-5862,Mod vs Con,0.4124536858,0.2344869227,1.7589624235,0.0866347695,0.2148136974,False,False,True,superpathway of demethylmenaquinol-9 biosynthesis
+PWY-6922,Mod vs Con,0.3480256301,0.1991328556,1.7477057167,0.0885921962,0.2183900651,False,False,True,L-N&delta;-acetylornithine biosynthesis
+PWY-7345,Mod vs Con,0.2290133987,0.1322887245,1.7311634048,0.0915358788,0.2243422693,False,False,True,superpathway of anaerobic sucrose degradation
+PWY-5855,Mod vs Con,0.4308898375,0.2505657174,1.7196679658,0.0936292585,0.2268503178,False,False,True,ubiquinol-7 biosynthesis (early decarboxylation)
+PWY-7820,Mod vs Con,0.5301638194,0.2825631678,1.876266548,0.0933608359,0.2268503178,False,False,True,teichuronic acid biosynthesis (B. subtilis 168)
+LIPA-CORESYN-PWY,Mod vs Con,1.3073846299,0.7594169677,1.7215636277,0.0948040879,0.2271034858,False,False,True,lipid A-core biosynthesis (E. coli K-12)
+PWY-181,Mod vs Con,0.991552864,0.576494725,1.7199686674,0.0948049929,0.2271034858,False,False,True,photorespiration
+PWY-6470,Mod vs Con,0.3151593197,0.1856836773,1.6972914594,0.0978186852,0.2330063062,False,False,True,peptidoglycan biosynthesis V (&beta;-lactam resistance)
+PWY-8004,Mod vs Con,0.8063179145,0.476514409,1.6921165431,0.0995095894,0.2357098654,False,False,True,Entner-Doudoroff pathway I
+PWY-6748,Mod vs Con,0.5510554246,0.3124845173,1.7634647288,0.1012951655,0.2386063899,False,False,True,nitrate reduction VII (denitrification)
+LPSSYN-PWY,Mod vs Con,1.2289766902,0.7303406761,1.6827444102,0.1021584887,0.2393104928,False,False,True,superpathway of lipopolysaccharide biosynthesis
+PWY-6641,Mod vs Con,-0.5579695343,0.3074686232,-1.8147202419,0.1029616967,0.2398668098,False,False,True,superpathway of sulfolactate degradation
+GLYCOLYSIS-E-D,Mod vs Con,0.7883998817,0.4744477986,1.6617210241,0.1055013771,0.2418148539,False,False,True,superpathway of glycolysis and the Entner-Doudoroff pathway
+PWY-5845,Mod vs Con,0.3705755311,0.2234793368,1.6582093739,0.1055088396,0.2418148539,False,False,True,superpathway of menaquinol-9 biosynthesis
+PWY-5896,Mod vs Con,0.3705755311,0.2234793368,1.6582093739,0.1055088396,0.2418148539,False,False,True,superpathway of menaquinol-10 biosynthesis
+PWY-7294,Mod vs Con,0.8572816197,0.5106195595,1.6789047809,0.1073196088,0.2433343002,False,False,True,D-xylose degradation IV
+PWY0-1338,Mod vs Con,1.2200277943,0.7370144248,1.6553648792,0.1067913917,0.2433343002,False,False,True,polymyxin resistance
+PWY-6269,Mod vs Con,0.3573311965,0.2282060922,1.5658267184,0.1256798896,0.2834482616,False,False,True,superpathway of adenosylcobalamin salvage from cobinamide II
+PWY-7413,Mod vs Con,0.480285251,0.2816717608,1.7051238988,0.1265672257,0.283939173,False,False,True,dTDP-6-deoxy-&alpha;-D-allose biosynthesis
+URSIN-PWY,Mod vs Con,0.5262115889,0.3286445783,1.6011570667,0.127759761,0.285105993,False,False,True,ureide biosynthesis
+PWY-7115,Mod vs Con,-0.297580359,0.1924834093,-1.5460052379,0.1303918121,0.2894561693,False,False,False,"C4 photosynthetic carbon assimilation cycle, NAD-ME type"
+PWY-5188,Mod vs Con,0.2612734909,0.1709391667,1.528458901,0.1346808807,0.2974202782,False,False,True,tetrapyrrole biosynthesis I (from glutamate)
+ANAGLYCOLYSIS-PWY,Mod vs Con,0.2040565352,0.1344862688,1.517303863,0.1374661163,0.3019981001,False,False,True,glycolysis III (from glucose)
+PYRIDNUCSAL-PWY,Mod vs Con,0.2451357444,0.1621944155,1.5113698188,0.1389664651,0.3037205217,False,False,True,NAD salvage pathway I (PNC VI cycle)
+FERMENTATION-PWY,Mod vs Con,0.1933206988,0.1306191497,1.4800333583,0.1471080752,0.3175617655,False,False,True,mixed acid fermentation
+PWY-6060,Mod vs Con,0.4818316811,0.3176978312,1.5166350971,0.1467247474,0.3175617655,False,False,True,malonate degradation II (biotin-dependent)
+PWY-6823,Mod vs Con,0.2647311796,0.1794082427,1.4755798041,0.1482953527,0.3175617655,False,False,True,molybdopterin biosynthesis
+PWY-7234,Mod vs Con,0.3366560996,0.2280874117,1.4759959665,0.1481840862,0.3175617655,False,False,True,inosine-5'-phosphate biosynthesis III
+PWY-5189,Mod vs Con,0.2536248571,0.1728984472,1.4669007229,0.1506309742,0.3188156095,False,False,True,tetrapyrrole biosynthesis II (from glycine)
+PWY-5497,Mod vs Con,0.3764295743,0.2560079386,1.4703824276,0.1496905359,0.3188156095,False,False,True,purine nucleobases degradation II (anaerobic)
+PWY-7399,Mod vs Con,0.4033420965,0.2753121209,1.4650357391,0.1511366451,0.3188156095,False,False,True,methylphosphonate degradation II
+NAGLIPASYN-PWY,Mod vs Con,-0.2721197274,0.1872549416,-1.4532045197,0.1543759474,0.3192946425,False,False,False,lipid IVA biosynthesis (E. coli)
+PWY-6703,Mod vs Con,-0.2665611974,0.1825579605,-1.4601455705,0.1524689505,0.3192946425,False,False,False,preQ0 biosynthesis
+PWY-8073,Mod vs Con,-0.2721197274,0.1872549416,-1.4532045197,0.1543759474,0.3192946425,False,False,False,lipid IVA biosynthesis (P. putida)
+PWY0-1337,Mod vs Con,0.4834454956,0.3066392903,1.5765934465,0.1535394897,0.3192946425,False,False,True,oleate &beta;-oxidation
+PWY66-373,Mod vs Con,1.1587336971,0.7980890396,1.4518852404,0.1562682737,0.3216395537,False,False,True,sucrose degradation V (sucrose &alpha;-glucosidase)
+ECASYN-PWY,Mod vs Con,1.0759046395,0.7601824896,1.4153241547,0.1658103203,0.3396308011,False,False,True,enterobacterial common antigen biosynthesis
+COBALSYN-PWY,Mod vs Con,0.2953042821,0.2099866326,1.4063003841,0.1677602542,0.3419728259,False,False,True,superpathway of adenosylcobalamin salvage from cobinamide I
+PWY-7376,Mod vs Con,0.3978374131,0.2804103549,1.4187686228,0.1713629312,0.3476453724,False,False,True,"cob(II)yrinate a,c-diamide biosynthesis II (late cobalt incorporation)"
+PWY-7431,Mod vs Con,0.6741434566,0.4836683039,1.3938135932,0.1743385188,0.3519977713,False,False,True,aromatic biogenic amine degradation (bacteria)
+GALLATE-DEGRADATION-I-PWY,Mod vs Con,0.4346304751,0.2925909711,1.4854541595,0.175726768,0.3531191925,False,False,True,gallate degradation II
+PWY-5430,Mod vs Con,-0.5118637247,0.2944195162,-1.7385522917,0.1804997688,0.3608720871,False,False,True,meta cleavage pathway of aromatic compounds
+PWY-6328,Mod vs Con,1.0586077589,0.7746479294,1.3665663055,0.1812871569,0.3608720871,False,False,True,L-lysine degradation X
+PWY-1269,Mod vs Con,-0.2409624379,0.1782915158,-1.3515081573,0.1845239272,0.3655988089,False,False,False,CMP-3-deoxy-D-manno-octulosonate biosynthesis
+PWY0-1061,Mod vs Con,-0.2536222043,0.1880636514,-1.3485976813,0.185449245,0.3657231622,False,False,False,superpathway of L-alanine biosynthesis
+PWY-6467,Mod vs Con,-0.2451291361,0.18482693,-1.3262630943,0.1926691141,0.378202335,False,False,False,Kdo transfer to lipid IVA III (Chlamydia)
+PWY-6478,Mod vs Con,0.2210749487,0.1683633316,1.3130825252,0.1970295432,0.3849793839,False,False,True,GDP-D-glycero-&alpha;-D-manno-heptose biosynthesis
+12DICHLORETHDEG-PWY,Mod vs Con,0.4402142033,0.2926824638,1.5040675742,0.2070027893,0.3987101912,False,False,True,"1,2-dichloroethane degradation"
+ORNDEG-PWY,Mod vs Con,0.9155062535,0.7125841511,1.2847693175,0.2078182836,0.3987101912,False,False,True,superpathway of ornithine degradation
+PWY4FS-7,Mod vs Con,0.178506708,0.1389254088,1.2849104394,0.2066007766,0.3987101912,False,False,True,phosphatidylglycerol biosynthesis I (plastidic)
+PWY4FS-8,Mod vs Con,0.178506708,0.1389254088,1.2849104394,0.2066007766,0.3987101912,False,False,True,phosphatidylglycerol biosynthesis II (non-plastidic)
+PWY-7111,Mod vs Con,0.1804148075,0.1419382219,1.2710798057,0.2114262426,0.403805076,False,False,True,pyruvate fermentation to isobutanol (engineered)
+P164-PWY,Mod vs Con,-0.2199105124,0.173641869,-1.2664601782,0.2130567536,0.4050944552,False,False,False,purine nucleobases degradation I (anaerobic)
+PWY-6531,Mod vs Con,0.4176560878,0.3332185254,1.2533999642,0.2177174347,0.4121080014,False,False,True,mannitol cycle
+PWY4LZ-257,Mod vs Con,-0.4376584449,0.3354932526,-1.3045223458,0.2212789135,0.4169878193,False,False,True,superpathway of fermentation (Chlamydomonas reinhardtii)
+PWY-7663,Mod vs Con,0.1553921364,0.1253622153,1.2395452329,0.2227445179,0.4178923699,False,False,False,gondoate biosynthesis (anaerobic)
+PWY1G-0,Mod vs Con,0.3185319545,0.2554828827,1.246783938,0.2245081075,0.41934554,False,False,True,mycothiol biosynthesis
+PWY-5838,Mod vs Con,-0.2292157854,0.1865821395,-1.2284980009,0.2268144374,0.4209617825,False,False,False,superpathway of menaquinol-8 biosynthesis I
+PWY-6147,Mod vs Con,-0.2096034632,0.1708216741,-1.2270308461,0.2273590759,0.4209617825,False,False,False,6-hydroxymethyl-dihydropterin diphosphate biosynthesis I
+PWY-5265,Mod vs Con,0.3164272606,0.2637080249,1.1999151738,0.2376000606,0.4348509827,False,False,True,peptidoglycan biosynthesis II (staphylococci)
+PWY-5897,Mod vs Con,-0.2254152786,0.1887380756,-1.1943285838,0.2397514661,0.4348509827,False,False,False,superpathway of menaquinol-11 biosynthesis
+PWY-5898,Mod vs Con,-0.2254152786,0.1887380756,-1.1943285838,0.2397514661,0.4348509827,False,False,False,superpathway of menaquinol-12 biosynthesis
+PWY-5899,Mod vs Con,-0.2254152786,0.1887380756,-1.1943285838,0.2397514661,0.4348509827,False,False,False,superpathway of menaquinol-13 biosynthesis
+PWY-7913,Mod vs Con,0.3798694531,0.313160154,1.2130197545,0.239988514,0.4348509827,False,False,True,firefly bioluminescence
+PWY6666-2,Mod vs Con,0.6513975227,0.5481554787,1.1883444534,0.2422696009,0.4371162161,False,False,True,dopamine degradation
+PWY-5840,Mod vs Con,-0.2093091197,0.1795982382,-1.1654296935,0.2511086308,0.4511443197,False,False,False,superpathway of menaquinol-7 biosynthesis
+ARGSYNBSUB-PWY,Mod vs Con,0.1834641626,0.1601650533,1.1454693696,0.2591777568,0.463676662,False,False,True,L-arginine biosynthesis II (acetyl cycle)
+PWY-7883,Mod vs Con,-0.2118322752,0.1867247742,-1.1344626129,0.2637064368,0.4697963413,False,False,False,anhydromuropeptides recycling II
+P163-PWY,Mod vs Con,0.4930129551,0.4379562709,1.1257127432,0.2673468207,0.4742889205,False,False,True,L-lysine fermentation to acetate and butanoate
+DENOVOPURINE2-PWY,Mod vs Con,0.1858859323,0.1658431627,1.1208537591,0.2693838507,0.4759114695,False,False,True,superpathway of purine nucleotides de novo biosynthesis II
+AST-PWY,Mod vs Con,0.7764902569,0.7003485609,1.1087197152,0.2758146479,0.4852506668,False,False,True,L-arginine degradation II (AST pathway)
+RHAMCAT-PWY,Mod vs Con,0.22339556,0.2026909767,1.1021485203,0.2773289303,0.4858986217,False,False,True,L-rhamnose degradation I
+PWY-5419,Mod vs Con,0.408058481,0.3736799398,1.0919999644,0.2818928462,0.4918624148,False,False,True,catechol degradation to 2-hydroxypentadienoate II
+DAPLYSINESYN-PWY,Mod vs Con,0.1480234391,0.1368905286,1.0813271054,0.2863664474,0.4966855897,False,False,False,L-lysine biosynthesis I
+PWY-7480,Mod vs Con,-0.3500023334,0.2995811449,-1.1683056137,0.286999928,0.4966855897,False,False,True,"2,3-dihydroxybenzoate degradation"
+PWY0-1586,Mod vs Con,0.1395041785,0.1329509089,1.0492908976,0.3006721466,0.5182316673,False,False,False,peptidoglycan maturation (meso-diaminopimelate containing)
+PWY-5861,Mod vs Con,-0.1998156863,0.1919511361,-1.0409716259,0.3044667824,0.5226474322,False,False,False,superpathway of demethylmenaquinol-8 biosynthesis I
+PWY-5837,Mod vs Con,-0.2147821978,0.2075172021,-1.0350091252,0.3072066922,0.5252243448,False,False,False,"2-carboxy-1,4-naphthoquinol biosynthesis"
+PANTO-PWY,Mod vs Con,-0.1713147443,0.1666280063,-1.0281269521,0.3103902622,0.5285360288,False,False,False,phosphopantothenate biosynthesis I
+P185-PWY,Mod vs Con,0.2435057461,0.240441799,1.0127429885,0.3175882549,0.5386296802,False,False,True,formaldehyde assimilation III (dihydroxyacetone cycle)
+PPGPPMET-PWY,Mod vs Con,-0.1705975045,0.1692595027,-1.0079050317,0.3198752219,0.5403469883,False,False,False,ppGpp metabolism
+ASPASN-PWY,Mod vs Con,-0.1847856187,0.184436159,-1.0018947465,0.3227319287,0.5408629951,False,False,False,superpathway of L-aspartate and L-asparagine biosynthesis
+PWY-6421,Mod vs Con,0.2820860796,0.2759284441,1.022316059,0.3218409001,0.5408629951,False,False,True,arsenate detoxification IV (mycothiol)
+PWY-7238,Mod vs Con,-0.1676379845,0.1708479669,-0.9812114687,0.332694624,0.5553642543,False,False,False,sucrose biosynthesis II
+PWY-6897,Mod vs Con,-0.1668144292,0.1712155922,-0.9742946137,0.3360719409,0.5588019724,False,False,False,thiamine diphosphate salvage II
+PWY-5484,Mod vs Con,0.126375836,0.1323975908,0.954517641,0.3458546671,0.5728217923,False,False,False,glycolysis II (from fructose 6-phosphate)
+PWY-6837,Mod vs Con,0.292017547,0.3055479646,0.9557175331,0.352609246,0.581085047,False,False,True,"fatty acid &beta;-oxidation V (unsaturated, odd number, di-isomerase-dependent)"
+PWY-6969,Mod vs Con,0.1677400052,0.1786081138,0.9391510921,0.3535847692,0.581085047,False,False,True,TCA cycle V (2-oxoglutarate synthase)
+PWY-6527,Mod vs Con,0.1422132729,0.1539051336,0.9240320291,0.3613003735,0.5914724262,False,False,True,stachyose degradation
+HEME-BIOSYNTHESIS-II-1,Mod vs Con,-0.1781871633,0.1944725238,-0.9162588104,0.3653096462,0.5934532183,False,False,False,heme b biosynthesis V (aerobic)
+PWY-7323,Mod vs Con,-0.1527509566,0.1667056068,-0.9162916563,0.3652926444,0.5934532183,False,False,False,superpathway of GDP-mannose-derived O-antigen building blocks biosynthesis
+PWY-6606,Mod vs Con,0.1712508891,0.1898610529,0.9019800874,0.3727492855,0.6032278514,False,False,True,guanosine nucleotides degradation II
+ARGININE-SYN4-PWY,Mod vs Con,0.2409201305,0.2693933314,0.8943062147,0.3767876483,0.6074447258,False,False,True,L-ornithine biosynthesis II
+COLANSYN-PWY,Mod vs Con,-0.1452806248,0.1634790088,-0.8886806067,0.3797658749,0.6076253998,False,False,False,colanic acid building blocks biosynthesis
+P42-PWY,Mod vs Con,-0.1489636226,0.167429106,-0.8897116291,0.3792189225,0.6076253998,False,False,False,incomplete reductive TCA cycle
+PWY-6565,Mod vs Con,0.3834323349,0.4308093226,0.8900279423,0.3884895829,0.6192465531,False,False,True,superpathway of polyamine biosynthesis III
+PWY-6383,Mod vs Con,-0.3394919367,0.3961736655,-0.8569270659,0.3968572931,0.6302153269,False,False,True,"mono-trans, poly-cis decaprenyl phosphate biosynthesis"
+PYRIDNUCSYN-PWY,Mod vs Con,-0.1514142335,0.1774134165,-0.8534542453,0.3987554146,0.6308667754,False,False,False,NAD de novo biosynthesis I (from aspartate)
+HEMESYN2-PWY,Mod vs Con,-0.1647873933,0.1967569599,-0.8375174801,0.4075385655,0.6409419145,False,False,False,heme b biosynthesis II (oxygen-independent)
+PWY-7761,Mod vs Con,0.1196184285,0.1430121425,0.8364214841,0.4081469739,0.6409419145,False,False,False,NAD salvage pathway II (PNC IV cycle)
+PWY0-1261,Mod vs Con,-0.1472372472,0.1769685711,-0.8319965874,0.4106090346,0.6424288955,False,False,False,anhydromuropeptides recycling I
+PWY-6562,Mod vs Con,0.4349270927,0.5358096862,0.8117193546,0.4225993488,0.6587578085,False,False,True,norspermidine biosynthesis
+PWY0-1296,Mod vs Con,0.1178547503,0.1501888796,0.7847102302,0.4374883847,0.6794691396,False,False,False,purine ribonucleosides degradation
+PWY3O-4107,Mod vs Con,0.138145009,0.1803475271,0.7659933642,0.4484124659,0.6938937428,False,False,True,NAD salvage pathway V (PNC V cycle)
+CRNFORCAT-PWY,Mod vs Con,-0.2861024022,0.374103467,-0.764768112,0.4512956772,0.6955330939,False,False,True,creatinine degradation I
+PWY-6588,Mod vs Con,-0.3513612732,0.4548225899,-0.7725237951,0.457673899,0.6955330939,False,False,True,pyruvate fermentation to acetone
+PWY-6700,Mod vs Con,-0.1080298669,0.1437320726,-0.751605852,0.4569181899,0.6955330939,False,False,False,queuosine biosynthesis I (de novo)
+PWY-7220,Mod vs Con,0.1067941,0.1417637494,0.7533244598,0.455897237,0.6955330939,False,False,False,adenosine deoxyribonucleotides de novo biosynthesis II
+PWY-7222,Mod vs Con,0.1067941,0.1417637494,0.7533244598,0.455897237,0.6955330939,False,False,False,guanosine deoxyribonucleotides de novo biosynthesis II
+PWY-5973,Mod vs Con,0.0955147767,0.1281371339,0.7454105907,0.4606096023,0.6974945407,False,False,False,cis-vaccenate biosynthesis
+PWY66-409,Mod vs Con,0.2811314576,0.3805126453,0.7388229041,0.4645537985,0.7009637387,False,False,True,superpathway of purine nucleotide salvage
+GLYCOLYSIS,Mod vs Con,0.0981822916,0.135205849,0.7261689661,0.4721845531,0.7032986021,False,False,False,glycolysis I (from glucose 6-phosphate)
+PWY-5659,Mod vs Con,-0.113843988,0.1562932835,-0.7283997457,0.4708341242,0.7032986021,False,False,False,GDP-mannose biosynthesis
+PWY-6182,Mod vs Con,0.2563157103,0.3455892152,0.7416773992,0.4725495587,0.7032986021,False,False,True,superpathway of salicylate degradation
+PWY-7456,Mod vs Con,-0.1344036625,0.1853181758,-0.7252589336,0.4727360887,0.7032986021,False,False,False,"&beta;-(1,4)-mannan degradation"
+3-HYDROXYPHENYLACETATE-DEGRADATION-PWY,Mod vs Con,-0.2792004154,0.3258335958,-0.8568803801,0.4817950392,0.7096529632,False,False,True,4-hydroxyphenylacetate degradation
+PWY-5345,Mod vs Con,-0.1722138793,0.2421665288,-0.7111382411,0.4813412031,0.7096529632,False,False,False,superpathway of L-methionine biosynthesis (by sulfhydrylation)
+PWY-6902,Mod vs Con,0.1553091171,0.2187400798,0.7100167342,0.4820284278,0.7096529632,False,False,True,chitin degradation II (Vibrio)
+NONMEVIPP-PWY,Mod vs Con,-0.1162784409,0.1673520148,-0.6948135109,0.4913990307,0.7183064594,False,False,False,methylerythritol phosphate pathway I
+PWY-561,Mod vs Con,0.2050946687,0.2927123832,0.7006696009,0.4929886313,0.7183064594,False,False,True,superpathway of glyoxylate cycle and fatty acid degradation
+PWY-7560,Mod vs Con,-0.1162784409,0.1673520148,-0.6948135109,0.4913990307,0.7183064594,False,False,False,methylerythritol phosphate pathway II
+OANTIGEN-PWY,Mod vs Con,0.0928004825,0.1352377685,0.6862024089,0.4967513457,0.7201268097,False,False,False,O-antigen building blocks biosynthesis (E. coli)
+PWY-6121,Mod vs Con,-0.0957224714,0.1403417493,-0.6820669677,0.4993332124,0.7201268097,False,False,False,5-aminoimidazole ribonucleotide biosynthesis I
+PWY-7199,Mod vs Con,0.4383665158,0.6398501123,0.6851081329,0.4976635802,0.7201268097,False,False,True,pyrimidine deoxyribonucleosides salvage
+PWY-7282,Mod vs Con,0.2208731492,0.3266134329,0.6762524959,0.5029758447,0.722921214,False,False,True,4-amino-2-methyl-5-diphosphomethylpyrimidine biosynthesis II
+PHOSLIPSYN-PWY,Mod vs Con,0.0921502498,0.1382582268,0.6665082573,0.5091129853,0.7269409241,False,False,False,superpathway of phospholipid biosynthesis I (bacteria)
+PWY-5103,Mod vs Con,-0.1104777533,0.1657908744,-0.66636812,0.5092015436,0.7269409241,False,False,False,L-isoleucine biosynthesis III
+ARO-PWY,Mod vs Con,-0.1055428853,0.1682792629,-0.6271888967,0.5342860057,0.7318770711,False,False,False,chorismate biosynthesis I
+BRANCHED-CHAIN-AA-SYN-PWY,Mod vs Con,-0.1062958544,0.165460853,-0.6424229808,0.5244558251,0.7318770711,False,False,False,superpathway of branched chain amino acid biosynthesis
+FUC-RHAMCAT-PWY,Mod vs Con,0.1005346713,0.1558288528,0.6451608252,0.522699427,0.7318770711,False,False,True,superpathway of fucose and rhamnose degradation
+P105-PWY,Mod vs Con,0.1997402709,0.3057647825,0.6532481249,0.5210361075,0.7318770711,False,False,True,TCA cycle IV (2-oxoglutarate decarboxylase)
+PANTOSYN-PWY,Mod vs Con,-0.0977707624,0.1568653366,-0.6232783129,0.5368249272,0.7318770711,False,False,False,superpathway of coenzyme A biosynthesis I (bacteria)
+PWY-5415,Mod vs Con,0.2281292887,0.3472626466,0.6569358693,0.5200173709,0.7318770711,False,False,True,catechol degradation I (meta-cleavage pathway)
+PWY-5677,Mod vs Con,0.2816000978,0.4417555569,0.6374568319,0.5276497446,0.7318770711,False,False,True,succinate fermentation to butanoate
+PWY-6906,Mod vs Con,0.3231280452,0.5114266426,0.6318169965,0.5313911423,0.7318770711,False,False,True,chitin derivatives degradation
+PWY-7090,Mod vs Con,-0.1447225191,0.2313890898,-0.6254509203,0.5354135971,0.7318770711,False,False,False,"UDP-2,3-diacetamido-2,3-dideoxy-&alpha;-D-mannuronate biosynthesis"
+PWY-7942,Mod vs Con,-0.2440954137,0.3831644818,-0.6370512543,0.5290888838,0.7318770711,False,False,True,5-oxo-L-proline metabolism
+PWY0-845,Mod vs Con,0.2233846833,0.3479519759,0.6419986055,0.524728354,0.7318770711,False,False,True,superpathway of pyridoxal 5'-phosphate biosynthesis and salvage
+PWY66-399,Mod vs Con,0.2136840589,0.3401827521,0.6281448945,0.5336662903,0.7318770711,False,False,True,gluconeogenesis III
+SO4ASSIM-PWY,Mod vs Con,-0.198550068,0.3080733136,-0.6444896694,0.5231297,0.7318770711,False,False,True,assimilatory sulfate reduction I
+SULFATE-CYS-PWY,Mod vs Con,-0.1825259338,0.2844604391,-0.6416566551,0.5249480055,0.7318770711,False,False,True,superpathway of sulfate assimilation and cysteine biosynthesis
+ARGSYN-PWY,Mod vs Con,0.0911479691,0.1508196344,0.6043508154,0.5492020238,0.7406163922,False,False,False,L-arginine biosynthesis I (via L-ornithine)
+GLYCOGENSYNTH-PWY,Mod vs Con,-0.0910772324,0.1502288033,-0.6062567922,0.5479490642,0.7406163922,False,False,False,glycogen biosynthesis I (from ADP-D-Glucose)
+PWY-5667,Mod vs Con,0.0854571069,0.141766752,0.6028007672,0.5502220838,0.7406163922,False,False,False,CDP-diacylglycerol biosynthesis I
+PWY0-1319,Mod vs Con,0.0854571069,0.141766752,0.6028007672,0.5502220838,0.7406163922,False,False,False,CDP-diacylglycerol biosynthesis II
+PWY-7268,Mod vs Con,-0.1882179773,0.2944456219,-0.6392283103,0.5574451595,0.7451898173,False,False,True,cytosolic NADPH production (yeast)
+PWY-7269,Mod vs Con,-0.1882179773,0.2944456219,-0.6392283103,0.5574451595,0.7451898173,False,False,True,mitochondrial NADPH production (yeast)
+PYRIDOXSYN-PWY,Mod vs Con,0.2097967828,0.3557780504,0.5896844466,0.558892363,0.7451898173,False,False,True,pyridoxal 5'-phosphate biosynthesis I
+DTDPRHAMSYN-PWY,Mod vs Con,-0.0966477044,0.1646885363,-0.5868514384,0.5607740902,0.7453549036,False,False,False,dTDP-&beta;-L-rhamnose biosynthesis
+PWY66-391,Mod vs Con,0.1715350547,0.2952564473,0.5809697172,0.568464665,0.7532156811,False,False,True,fatty acid &beta;-oxidation VI (mammalian peroxisome)
+PWY-6948,Mod vs Con,0.1493369562,0.2584992052,0.5777076028,0.5720323616,0.7532351594,False,False,True,sitosterol degradation to androstenedione
+PWY-7039,Mod vs Con,-0.1911842542,0.3257609179,-0.5868851778,0.5702921719,0.7532351594,False,False,True,"phosphatidate metabolism, as a signaling molecule"
+P261-PWY,Mod vs Con,0.1785045239,0.2964108328,0.6022199737,0.5794999043,0.7607057567,False,False,True,coenzyme M biosynthesis I
+GLUTORN-PWY,Mod vs Con,-0.093512351,0.1697497531,-0.5508835759,0.5849380048,0.7607987167,False,False,False,L-ornithine biosynthesis I
+PWY-5505,Mod vs Con,0.1414452713,0.2552607338,0.554120758,0.5827427167,0.7607987167,False,False,True,L-glutamate and L-glutamine biosynthesis
+PWY-7858,Mod vs Con,0.1678465818,0.3014755504,0.5567502291,0.5849537303,0.7607987167,False,False,True,(5Z)-dodecenoate biosynthesis II
+PWY-7052,Mod vs Con,-0.2970460862,0.5470213434,-0.5430246731,0.5902840716,0.765383628,False,False,True,cyanophycin metabolism
+ILEUSYN-PWY,Mod vs Con,-0.086727022,0.1621183599,-0.5349611361,0.5957935425,0.7701721404,False,False,False,L-isoleucine biosynthesis I (from threonine)
+PWY1ZNC-1,Mod vs Con,0.1228072513,0.2317044347,0.5300168355,0.5991837879,0.7722003833,False,False,True,assimilatory sulfate reduction IV
+GLCMANNANAUT-PWY,Mod vs Con,0.0901883441,0.1724163245,0.5230847159,0.6039523043,0.7759872031,False,False,True,"superpathway of N-acetylglucosamine, N-acetylmannosamine and N-acetylneuraminate degradation"
+PWY-5494,Mod vs Con,0.2714632506,0.5268316681,0.5152751193,0.6093455621,0.7805514149,False,False,True,pyruvate fermentation to propanoate II (acrylate pathway)
+PWY-5420,Mod vs Con,0.1827997201,0.3591336737,0.509001894,0.617698107,0.788867462,False,False,True,catechol degradation II (meta-cleavage pathway)
+PWY-6163,Mod vs Con,-0.0839500944,0.168575557,-0.4979968384,0.6213562514,0.7911563081,False,False,False,chorismate biosynthesis from 3-dehydroquinate
+PWY-5121,Mod vs Con,-0.0786568726,0.1593638315,-0.4935679063,0.6244520944,0.7927176288,False,False,False,superpathway of geranylgeranyl diphosphate biosynthesis II (via MEP)
+VALSYN-PWY,Mod vs Con,-0.0796135259,0.1623397917,-0.490412887,0.6266616833,0.7931479216,False,False,False,L-valine biosynthesis
+THISYNARA-PWY,Mod vs Con,0.0710089487,0.1458290784,0.4869327124,0.6291030385,0.7938681201,False,False,False,superpathway of thiamine diphosphate biosynthesis III (eukaryotes)
+PWY-7221,Mod vs Con,0.0663364528,0.1387034609,0.4782609776,0.6352046161,0.7968247255,False,False,False,guanosine ribonucleotides de novo biosynthesis
+PWY-821,Mod vs Con,0.2290362275,0.4762144616,0.4809518526,0.6333826996,0.7968247255,False,False,True,superpathway of sulfur amino acid biosynthesis (Saccharomyces cerevisiae)
+PWY-6731,Mod vs Con,-0.0942828477,0.1999506261,-0.4715306454,0.6399580397,0.8004194951,False,False,False,starch degradation III
+PWY-3661,Mod vs Con,0.2511205937,0.5486158063,0.4577348862,0.6498937415,0.8104557247,False,False,True,glycine betaine degradation I
+1CMET2-PWY,Mod vs Con,-0.0647876359,0.1547216225,-0.4187367923,0.6777658944,0.8334370003,False,False,False,folate transformations III (E. coli)
+FOLSYN-PWY,Mod vs Con,-0.0646687138,0.1510732688,-0.4280619221,0.6710224935,0.8334370003,False,False,False,superpathway of tetrahydrofolate biosynthesis and salvage
+HISTSYN-PWY,Mod vs Con,0.070727835,0.1669778839,0.4235760649,0.6742630139,0.8334370003,False,False,False,L-histidine biosynthesis
+PWY-6123,Mod vs Con,-0.0582183875,0.1390509218,-0.4186839382,0.6778041928,0.8334370003,False,False,False,inosine-5'-phosphate biosynthesis I
+PWY-7383,Mod vs Con,0.1430451823,0.343829596,0.4160351057,0.6797246571,0.8334370003,False,False,True,"anaerobic energy metabolism (invertebrates, cytosol)"
+PWY-7400,Mod vs Con,0.0606297482,0.1459215005,0.4154956468,0.6801160427,0.8334370003,False,False,False,L-arginine biosynthesis IV (archaebacteria)
+P221-PWY,Mod vs Con,0.1292529508,0.3155009876,0.4096752653,0.6843444989,0.8349636554,False,False,True,octane oxidation
+PWY-7295,Mod vs Con,0.1250422913,0.293860463,0.4255158724,0.6853003586,0.8349636554,False,False,True,L-arabinose degradation IV
+PWY-3001,Mod vs Con,-0.0605762014,0.1502129903,-0.4032687274,0.6890107133,0.8370789182,False,False,False,superpathway of L-isoleucine biosynthesis I
+PWY-5130,Mod vs Con,0.084297078,0.2161537264,0.3899866977,0.6987238197,0.8416446009,False,False,True,2-oxobutanoate degradation I
+PWY-6122,Mod vs Con,-0.0543154168,0.1390019402,-0.3907529396,0.6981620537,0.8416446009,False,False,False,5-aminoimidazole ribonucleotide biosynthesis II
+PWY-6277,Mod vs Con,-0.0543154168,0.1390019402,-0.3907529396,0.6981620537,0.8416446009,False,False,False,superpathway of 5-aminoimidazole ribonucleotide biosynthesis
+14DICHLORBENZDEG-PWY,Mod vs Con,0.1172983956,0.2938055355,0.3992382085,0.7101153375,0.8505336246,False,False,True,"1,4-dichlorobenzene degradation"
+PWY-6084,Mod vs Con,0.1172983956,0.2938055355,0.3992382085,0.7101153375,0.8505336246,False,False,True,"3,5-dichlorocatechol degradation"
+PWY-6612,Mod vs Con,-0.0561968543,0.1546967307,-0.3632711177,0.7184154959,0.8556409277,False,False,False,superpathway of tetrahydrofolate biosynthesis
+PWY0-1479,Mod vs Con,-0.0682539225,0.187650847,-0.3637282943,0.7180768303,0.8556409277,False,False,False,tRNA processing
+COA-PWY-1,Mod vs Con,0.0502485969,0.1400788049,0.3587166303,0.7217924837,0.8572549386,False,False,False,superpathway of coenzyme A biosynthesis III (mammals)
+PWY-6672,Mod vs Con,0.1287374608,0.3505040862,0.367292325,0.7260078464,0.8598528684,False,False,True,cis-geranyl-CoA degradation
+PWY-1042,Mod vs Con,0.0497791253,0.142321999,0.3497640961,0.7284468683,0.8603383626,False,False,False,glycolysis IV
+SER-GLYSYN-PWY,Mod vs Con,-0.0516054155,0.1489972872,-0.3463513764,0.7309891764,0.8609428077,False,False,False,superpathway of L-serine and glycine biosynthesis I
+PWY-6124,Mod vs Con,-0.0444702027,0.1392225684,-0.3194180601,0.7511589643,0.8798104996,False,False,False,inosine-5'-phosphate biosynthesis II
+PWY-7791,Mod vs Con,-0.0462710705,0.1440266814,-0.3212673514,0.7497682134,0.8798104996,False,False,False,UMP biosynthesis III
+COA-PWY,Mod vs Con,0.0426030466,0.1398921848,0.3045420064,0.7623766566,0.8904895383,False,False,False,coenzyme A biosynthesis I (prokaryotic)
+PWY-7851,Mod vs Con,0.0420077255,0.1407545603,0.2984466392,0.7669882262,0.8934148569,False,False,False,coenzyme A biosynthesis II (eukaryotic)
+POLYISOPRENSYN-PWY,Mod vs Con,-0.0407799111,0.1418131464,-0.2875608654,0.7752453566,0.9005589896,False,False,False,polyisoprenoid biosynthesis (E. coli)
+PWY66-367,Mod vs Con,-0.1113995539,0.3961471034,-0.2812075436,0.7842839889,0.9085694298,False,False,True,ketogenesis
+PWY-5686,Mod vs Con,-0.0384255977,0.143869199,-0.2670870346,0.7908463598,0.9136753585,False,False,False,UMP biosynthesis I
+PWY-7790,Mod vs Con,-0.0374427879,0.1440132592,-0.2599954206,0.7962708998,0.9174425585,False,False,False,UMP biosynthesis II
+PWY-622,Mod vs Con,0.0519463265,0.20339377,0.255397825,0.7997932037,0.9190035728,False,False,True,starch biosynthesis
+PWY-7977,Mod vs Con,-0.0404823785,0.1615457464,-0.2505938992,0.8034781095,0.9207424823,False,False,False,L-methionine biosynthesis IV
+GLUCONEO-PWY,Mod vs Con,-0.0356592935,0.1463399611,-0.2436743405,0.8087938081,0.9218510071,False,False,False,gluconeogenesis I
+PWY-7805,Mod vs Con,0.0962921116,0.391082156,0.2462196502,0.8068730662,0.9218510071,False,False,True,(aminomethyl)phosphonate degradation
+PWY-7208,Mod vs Con,-0.0339358186,0.1463348587,-0.231905227,0.8178559825,0.9296807951,False,False,False,superpathway of pyrimidine nucleobases salvage
+NONOXIPENT-PWY,Mod vs Con,0.0322611273,0.1497650318,0.2154116149,0.830598443,0.9391299729,False,False,False,pentose phosphate pathway (non-oxidative branch) I
+PWY-6397,Mod vs Con,-0.0614465907,0.2773026173,-0.2215867679,0.8286954696,0.9391299729,False,False,True,mycolyl-arabinogalactan-peptidoglycan complex biosynthesis
+PWY-1541,Mod vs Con,0.077375494,0.3661210697,0.2113385444,0.8347617201,0.9413270461,False,False,True,superpathway of taurine degradation
+P108-PWY,Mod vs Con,-0.1048934931,0.5351976162,-0.1959902098,0.8456902929,0.9475825004,False,False,True,pyruvate fermentation to propanoate I
+PWY-5392,Mod vs Con,-0.105135717,0.5384968703,-0.195239235,0.8462738751,0.9475825004,False,False,True,reductive TCA cycle II
+PWY-7855,Mod vs Con,0.0563521932,0.2827753679,0.1992825388,0.847013603,0.9475825004,False,False,True,ectoine degradation
+PWY-5028,Mod vs Con,0.0616241419,0.3243742931,0.1899785007,0.8504556914,0.9489295083,False,False,True,L-histidine degradation II
+PWY-6344,Mod vs Con,-0.0872470102,0.5028595795,-0.1735017364,0.8632028134,0.9506441374,False,False,True,L-arginine degradation XIV (oxidative Stickland reaction)
+PWY-6385,Mod vs Con,0.0245111838,0.1401345059,0.1749118367,0.8620775591,0.9506441374,False,False,False,peptidoglycan biosynthesis III (mycobacteria)
+PWY-7229,Mod vs Con,0.0243757236,0.1394480682,0.1748014438,0.8621637007,0.9506441374,False,False,False,superpathway of adenosine nucleotides de novo biosynthesis I
+PWY-8178,Mod vs Con,0.0265036046,0.1514880416,0.174955094,0.862043805,0.9506441374,False,False,False,pentose phosphate pathway (non-oxidative branch) II
+PWY-841,Mod vs Con,-0.0243042746,0.1397499774,-0.1739125474,0.8628573852,0.9506441374,False,False,False,superpathway of purine nucleotides de novo biosynthesis I
+DARABCATK12-PWY,Mod vs Con,-0.0296250967,0.1829626662,-0.1619188076,0.8722276921,0.9557726549,False,False,False,D-arabinose degradation I
+PWY-5209,Mod vs Con,0.0451330526,0.2788005017,0.1618829676,0.8746221465,0.9557726549,False,False,True,methyl-coenzyme M oxidation to CO2
+PWY-6628,Mod vs Con,0.0269398715,0.1680475675,0.1603109878,0.8734852774,0.9557726549,False,False,False,superpathway of L-phenylalanine biosynthesis
+PWY-6630,Mod vs Con,0.0249438839,0.168685986,0.1478717024,0.8832258799,0.962693504,False,False,False,superpathway of L-tyrosine biosynthesis
+PWY-2942,Mod vs Con,0.0195443763,0.1408923546,0.1387185017,0.8904051412,0.9655544242,False,False,False,L-lysine biosynthesis III
+PWY-6404,Mod vs Con,0.0394227843,0.2752280821,0.1432367803,0.8886933773,0.9655544242,False,False,True,superpathway of mycolyl-arabinogalactan-peptidoglycan complex biosynthesis
+CATECHOL-ORTHO-CLEAVAGE-PWY,Mod vs Con,-0.0387381232,0.3376486557,-0.1147290906,0.910289072,0.9778900549,False,False,True,catechol degradation to &beta;-ketoadipate
+FUCCAT-PWY,Mod vs Con,-0.0157463328,0.1767539728,-0.0890861604,0.9294813127,0.9778900549,False,False,False,fucose degradation
+PEPTIDOGLYCANSYN-PWY,Mod vs Con,0.0144117662,0.14118666,0.1020759764,0.9192331189,0.9778900549,False,False,False,peptidoglycan biosynthesis I (meso-diaminopimelate containing)
+PWY-3841,Mod vs Con,0.0126258184,0.1405712817,0.0898179077,0.9289036674,0.9778900549,False,False,False,folate transformations II (plants)
+PWY-5101,Mod vs Con,-0.0277586046,0.2494408863,-0.1112832984,0.9119774232,0.9778900549,False,False,True,L-isoleucine biosynthesis II
+PWY-5417,Mod vs Con,0.0279304256,0.3431911177,0.0813844652,0.9363758544,0.9778900549,False,False,True,catechol degradation III (ortho-cleavage pathway)
+PWY-5431,Mod vs Con,0.0279304256,0.3431911177,0.0813844652,0.9363758544,0.9778900549,False,False,True,aromatic compounds degradation via &beta;-ketoadipate
+PWY-5695,Mod vs Con,-0.0123617102,0.1397195839,-0.0884751431,0.9299636826,0.9778900549,False,False,False,inosine 5'-phosphate degradation
+PWY-6168,Mod vs Con,0.0129981074,0.1520445277,0.0854888207,0.932321628,0.9778900549,False,False,False,flavin biosynthesis III (fungi)
+PWY-6386,Mod vs Con,-0.0153754339,0.1425130894,-0.107887872,0.9146522852,0.9778900549,False,False,False,UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing)
+PWY-6609,Mod vs Con,-0.0164715554,0.1375591134,-0.1197416517,0.905318645,0.9778900549,False,False,False,adenine and adenosine salvage III
+PWY-7315,Mod vs Con,0.0239117821,0.29446352,0.0812045652,0.935705471,0.9778900549,False,False,True,dTDP-N-acetylthomosamine biosynthesis
+PWY-7807,Mod vs Con,0.0325309028,0.366345466,0.0887984315,0.9297084579,0.9778900549,False,False,True,glyphosate degradation III
+PWY0-1533,Mod vs Con,0.0318274008,0.366838931,0.0867612406,0.9313168718,0.9778900549,False,False,True,methylphosphonate degradation I
+TRNA-CHARGING-PWY,Mod vs Con,0.0158352899,0.1422131074,0.1113490185,0.9119256601,0.9778900549,False,False,False,tRNA charging
+CALVIN-PWY,Mod vs Con,0.0112546904,0.1513609312,0.0743566406,0.9411166654,0.9804262067,False,False,False,Calvin-Benson-Bassham cycle
+RIBOSYN2-PWY,Mod vs Con,0.0097084103,0.1522108535,0.0637826413,0.9494776472,0.9867120648,False,False,False,flavin biosynthesis I (bacteria and plants)
+PWY-5384,Mod vs Con,-0.0068661772,0.1440437037,-0.0476673192,0.9622310289,0.9926665602,False,False,False,sucrose degradation IV (sucrose phosphorylase)
+PWY-6125,Mod vs Con,0.0071539064,0.1415545497,0.0505381593,0.9599582629,0.9926665602,False,False,False,superpathway of guanosine nucleotides de novo biosynthesis II
+PWY-6387,Mod vs Con,0.0067519446,0.1410500004,0.0478691568,0.9620712289,0.9926665602,False,False,False,UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)
+GLUCOSE1PMETAB-PWY,Mod vs Con,-0.0028643986,0.1500507675,-0.01908953,0.9848695671,0.9961462695,False,False,False,glucose and glucose-1-phosphate degradation
+HSERMETANA-PWY,Mod vs Con,0.0028736707,0.1810391105,0.0158732038,0.9874185972,0.9961462695,False,False,False,L-methionine biosynthesis III
+KDO-NAGLIPASYN-PWY,Mod vs Con,0.0111413256,0.5653926318,0.0197054665,0.9843842139,0.9961462695,False,False,True,superpathway of (Kdo)2-lipid A biosynthesis
+PWY-5097,Mod vs Con,-0.0053372726,0.1439052768,-0.0370887898,0.9706083697,0.9961462695,False,False,False,L-lysine biosynthesis VI
+PWY-6151,Mod vs Con,0.0047141046,0.1479400195,0.0318649723,0.9747465154,0.9961462695,False,False,False,S-adenosyl-L-methionine salvage I
+PWY-6317,Mod vs Con,0.0019784731,0.1438453009,0.0137541723,0.9890980648,0.9961462695,False,False,False,D-galactose degradation I (Leloir pathway)
+PWY-7228,Mod vs Con,0.0047757588,0.1427387516,0.0334580396,0.9734844568,0.9961462695,False,False,False,superpathway of guanosine nucleotides de novo biosynthesis I
+PWY-724,Mod vs Con,-0.002555391,0.1420306155,-0.0179918321,0.9857395072,0.9961462695,False,False,False,"superpathway of L-lysine, L-threonine and L-methionine biosynthesis II"
+PWY-7357,Mod vs Con,0.0039344696,0.1581922347,0.0248714457,0.980287656,0.9961462695,False,False,False,thiamine phosphate formation from pyrithiamine and oxythiamine (yeast)
+THRESYN-PWY,Mod vs Con,-0.0025942558,0.1412294234,-0.0183690889,0.9854405242,0.9961462695,False,False,False,superpathway of L-threonine biosynthesis
+PWY-6126,Mod vs Con,-0.0013806452,0.1418688157,-0.009731844,0.9922861482,0.9969889261,False,False,False,superpathway of adenosine nucleotides de novo biosynthesis II
+COMPLETE-ARO-PWY,Mod vs Con,-0.0004324701,0.1665562318,-0.002596541,0.9979418459,0.9979418459,False,False,False,superpathway of aromatic amino acid biosynthesis
+PWY-7953,Mod vs Con,-0.0007278165,0.1413417801,-0.0051493376,0.9959183799,0.9979418459,False,False,False,UDP-N-acetylmuramoyl-pentapeptide biosynthesis III (meso-diaminopimelate containing)
+PWY-7031,QFY vs Mod,4.7354853124,0.328177506,14.4296462286,2.88359e-05,0.012226417,True,False,False,protein N-glycosylation (bacterial)
+CRNFORCAT-PWY,QFY vs Mod,1.4191868263,0.3084637602,4.6008219098,9.64131e-05,0.0136263894,True,False,False,creatinine degradation I
+PWY-7072,QFY vs Mod,1.8586180722,0.3544862128,5.2431321872,8.04195e-05,0.0136263894,True,False,False,hopanoid biosynthesis (bacteria)
+PWY-5180,QFY vs Mod,1.650042622,0.3561727226,4.6327035103,0.0002765206,0.0293111794,True,False,False,toluene degradation I (aerobic) (via o-cresol)
+PWY66-388,QFY vs Mod,-1.8604067748,0.2889337337,-6.4388700865,0.0006638896,0.0562978412,False,False,True,ceramide degradation by &alpha;-oxidation
+PWY-6676,QFY vs Mod,-1.2676729242,0.2890660969,-4.3854085204,0.0013658147,0.0827293491,False,False,True,superpathway of sulfide oxidation (phototrophic sulfur bacteria)
+PWY4LZ-257,QFY vs Mod,1.7751493632,0.4006455976,4.4307222493,0.0012727029,0.0827293491,False,False,True,superpathway of fermentation (Chlamydomonas reinhardtii)
+HEME-BIOSYNTHESIS-II,QFY vs Mod,-1.219487614,0.4076668088,-2.991383129,0.0048557198,0.1167838604,False,False,True,heme b biosynthesis I (aerobic)
+KETOGLUCONMET-PWY,QFY vs Mod,1.6144231641,0.5258067528,3.0703735837,0.0049578054,0.1167838604,False,False,True,ketogluconate metabolism
+PWY-1361,QFY vs Mod,-1.0442032739,0.2951900458,-3.5373932449,0.0040903939,0.1167838604,False,False,True,benzoyl-CoA degradation I (aerobic)
+PWY-3481,QFY vs Mod,1.2321183958,0.3008642412,4.095263667,0.0046003737,0.1167838604,False,False,True,superpathway of L-phenylalanine and L-tyrosine biosynthesis
+PWY-5005,QFY vs Mod,-1.2315612873,0.4036305026,-3.0512096565,0.0042009912,0.1167838604,False,False,True,biotin biosynthesis II
+PWY-5652,QFY vs Mod,-1.1338071394,0.2829665849,-4.0068587594,0.0039121569,0.1167838604,False,False,True,2-amino-3-carboxymuconate semialdehyde degradation to glutaryl-CoA
+PWY-5705,QFY vs Mod,-0.9446203504,0.3125645828,-3.0221605465,0.0044755665,0.1167838604,False,False,True,allantoin degradation to glyoxylate III
+PWY-5918,QFY vs Mod,-1.1610175035,0.3757043786,-3.0902421417,0.0037319206,0.1167838604,False,False,True,superpathway of heme b biosynthesis from glutamate
+PWY-6588,QFY vs Mod,-1.1389786416,0.3047838217,-3.737004921,0.003865541,0.1167838604,False,False,True,pyruvate fermentation to acetone
+PWY-7783,QFY vs Mod,-1.1891235413,0.3650599426,-3.2573377749,0.0024118907,0.1167838604,False,False,True,plasmalogen degradation
+PWY0-42,QFY vs Mod,-2.1338672452,0.6673723401,-3.1974163702,0.0028872697,0.1167838604,False,False,True,2-methylcitrate cycle I
+PWY66-367,QFY vs Mod,-1.0631165422,0.302093503,-3.5191638738,0.0055461665,0.1237670845,False,False,True,ketogenesis
+PWY0-41,QFY vs Mod,-0.9481804767,0.3257098271,-2.9111202601,0.0059947956,0.1270896672,False,False,True,allantoin degradation IV (anaerobic)
+PWY-6962,QFY vs Mod,1.5852746855,0.3073693187,5.1575566888,0.0067093316,0.1354646,False,False,True,superpathway of trimethylamine degradation
+PWY-5692,QFY vs Mod,-0.9382243965,0.3329271755,-2.8181069778,0.0076264096,0.1405912029,False,False,True,allantoin degradation to glyoxylate II
+URDEGR-PWY,QFY vs Mod,-0.9382243965,0.3329271755,-2.8181069778,0.0076264096,0.1405912029,False,False,True,superpathway of allantoin degradation in plants
+NAD-BIOSYNTHESIS-II,QFY vs Mod,-2.2602244988,0.8066550066,-2.8019716982,0.0080340964,0.141935703,False,False,True,NAD salvage pathway III (to nicotinamide riboside)
+PWY-5028,QFY vs Mod,1.1178474592,0.4029128258,2.7744151779,0.0089183781,0.1510908833,False,False,True,L-histidine degradation II
+PWY-6961,QFY vs Mod,-1.2680923307,0.4618380098,-2.745751332,0.009265007,0.1510908833,False,False,True,"L-ascorbate degradation II (bacterial, aerobic)"
+DENITRIFICATION-PWY,QFY vs Mod,-0.9866158586,0.3522328761,-2.8010328547,0.0099053887,0.1555512897,False,False,True,nitrate reduction I (denitrification)
+PWY-7854,QFY vs Mod,-0.8083107246,0.2739664536,-2.950400364,0.0112631854,0.1705568069,False,False,True,crotonyl-CoA/ethylmalonyl-CoA/hydroxybutyryl-CoA cycle (engineered)
+PWY-801,QFY vs Mod,-0.7355100969,0.2789508554,-2.6367013493,0.0120585645,0.1763045295,False,False,True,homocysteine and cysteine interconversion
+PWY-6293,QFY vs Mod,-0.6315035986,0.2471212678,-2.5554401054,0.014730297,0.1836954691,False,False,True,superpathway of L-cysteine biosynthesis (fungi)
+PWY-6501,QFY vs Mod,-0.9219146715,0.3069922916,-3.0030547893,0.0132741869,0.1836954691,False,False,True,D-glucuronate degradation II
+PWY0-301,QFY vs Mod,-0.62167698,0.2416047945,-2.5731152452,0.0141067475,0.1836954691,False,False,True,"L-ascorbate degradation I (bacterial, anaerobic)"
+PWY0-862,QFY vs Mod,-1.3733210587,0.536516458,-2.5596997784,0.0145777547,0.1836954691,False,False,True,(5Z)-dodecenoate biosynthesis I
+TYRFUMCAT-PWY,QFY vs Mod,-0.8013908221,0.303073393,-2.6442137142,0.014206141,0.1836954691,False,False,True,L-tyrosine degradation I
+14DICHLORBENZDEG-PWY,QFY vs Mod,-1.1704035182,0.2974446921,-3.9348609982,0.0170332106,0.2006133696,False,False,True,"1,4-dichlorobenzene degradation"
+PWY-6084,QFY vs Mod,-1.1704035182,0.2974446921,-3.9348609982,0.0170332106,0.2006133696,False,False,True,"3,5-dichlorocatechol degradation"
+PWY-5654,QFY vs Mod,-0.7690824039,0.2873351166,-2.6766042837,0.0180651163,0.2070164682,False,False,True,2-amino-3-carboxymuconate semialdehyde degradation to 2-hydroxypentadienoate
+PWY-7377,QFY vs Mod,-0.531410911,0.2205742078,-2.4092160022,0.0209397238,0.2336432344,False,False,True,"cob(II)yrinate a,c-diamide biosynthesis I (early cobalt insertion)"
+PWY-5531,QFY vs Mod,-0.9979617569,0.379617126,-2.6288638962,0.0220217934,0.2390784046,False,False,True,"3,8-divinyl-chlorophyllide a biosynthesis II (anaerobic)"
+PWY-I9,QFY vs Mod,-0.463594271,0.1949736434,-2.3777278966,0.0225545665,0.2390784046,False,False,True,L-cysteine biosynthesis VI (from L-methionine)
+POLYAMINSYN3-PWY,QFY vs Mod,-0.3795450554,0.1604233734,-2.3658962362,0.0231898711,0.239817204,False,False,True,superpathway of polyamine biosynthesis II
+PWY-7332,QFY vs Mod,1.495359424,0.6092241016,2.4545309683,0.025936437,0.2618345068,False,False,True,superpathway of UDP-N-acetylglucosamine-derived O-antigen building blocks biosynthesis
+PWY490-3,QFY vs Mod,-0.816859553,0.3561880193,-2.2933380928,0.0274513747,0.2706833226,False,False,True,nitrate reduction VI (assimilatory)
+PWY-5367,QFY vs Mod,-0.7057625909,0.2867860115,-2.4609379902,0.0286184451,0.2712751401,False,False,True,petroselinate biosynthesis
+PWY-5647,QFY vs Mod,-0.7577830665,0.305169149,-2.4831575174,0.0287909936,0.2712751401,False,False,True,2-nitrobenzoate degradation I
+GLUCARDEG-PWY,QFY vs Mod,-0.6985126962,0.3119796412,-2.2389688423,0.0310916526,0.2804863979,False,False,True,D-glucarate degradation I
+PWY-7942,QFY vs Mod,0.740681423,0.3260091426,2.2719651882,0.0306849038,0.2804863979,False,False,True,5-oxo-L-proline metabolism
+COBALSYN-PWY,QFY vs Mod,-0.4193055444,0.189391257,-2.2139646309,0.0329060087,0.2813966712,False,False,True,superpathway of adenosylcobalamin salvage from cobinamide I
+P381-PWY,QFY vs Mod,-0.7067235548,0.2991827509,-2.3621801478,0.0331835697,0.2813966712,False,False,True,adenosylcobalamin biosynthesis II (aerobic)
+PWY-5189,QFY vs Mod,-0.3857915606,0.1733953768,-2.2249241456,0.0320994668,0.2813966712,False,False,True,tetrapyrrole biosynthesis II (from glycine)
+POLYAMSYN-PWY,QFY vs Mod,-0.3585378723,0.1633170213,-2.1953490788,0.0343173813,0.2853052874,False,False,True,superpathway of polyamine biosynthesis I
+PWY-821,QFY vs Mod,0.8519721435,0.3984947223,2.137975978,0.0391900357,0.3195495219,False,False,True,superpathway of sulfur amino acid biosynthesis (Saccharomyces cerevisiae)
+PWY-5651,QFY vs Mod,-0.7317534282,0.3166925391,-2.3106115172,0.043462126,0.3350534803,False,False,True,L-tryptophan degradation to 2-amino-3-carboxymuconate semialdehyde
+PWY-6269,QFY vs Mod,-0.3972643678,0.1888510689,-2.1035854874,0.0420889713,0.3350534803,False,False,True,superpathway of adenosylcobalamin salvage from cobinamide II
+PWY-6421,QFY vs Mod,0.5810553822,0.2641295798,2.1998875802,0.0428557423,0.3350534803,False,False,True,arsenate detoxification IV (mycothiol)
+GALLATE-DEGRADATION-II-PWY,QFY vs Mod,0.7007477643,0.2989160462,2.3442962434,0.0470987519,0.3474316065,False,False,True,gallate degradation I
+NADSYN-PWY,QFY vs Mod,-0.7051965361,0.3110580363,-2.2670899118,0.0468014318,0.3474316065,False,False,True,NAD de novo biosynthesis II (from tryptophan)
+PWY-5188,QFY vs Mod,-0.3586191513,0.1751152894,-2.047903142,0.0475260216,0.3474316065,False,False,True,tetrapyrrole biosynthesis I (from glutamate)
+ARG+POLYAMINE-SYN,QFY vs Mod,-0.3047002173,0.1506854247,-2.0220948242,0.0502478962,0.3519087487,False,False,True,superpathway of arginine and polyamine biosynthesis
+LIPASYN-PWY,QFY vs Mod,0.4140657719,0.2049455146,2.0203700119,0.0506283813,0.3519087487,False,False,True,phospholipases
+PWY-6992,QFY vs Mod,-0.9337254905,0.2922534824,-3.1949165597,0.0495241706,0.3519087487,False,False,True,"1,5-anhydrofructose degradation"
+PWY-5741,QFY vs Mod,-0.7298714095,0.2912234486,-2.506224732,0.0540769224,0.3698163722,False,False,True,ethylmalonyl-CoA pathway
+PWY-6803,QFY vs Mod,0.3902891344,0.1974773256,1.9763744179,0.0554041155,0.3728784918,False,False,True,phosphatidylcholine acyl editing
+HOMOSER-METSYN-PWY,QFY vs Mod,-0.4082668568,0.209520994,-1.9485725464,0.0587587753,0.3892768863,False,False,True,L-methionine biosynthesis I
+PWY-7294,QFY vs Mod,0.8115681594,0.4112364792,1.9734828994,0.0611318426,0.398767712,False,False,True,D-xylose degradation IV
+PWY-6672,QFY vs Mod,-0.8237294697,0.3612561581,-2.280181116,0.0627841318,0.4033404829,False,False,True,cis-geranyl-CoA degradation
+GALACTITOLCAT-PWY,QFY vs Mod,-0.3784880667,0.1990373621,-1.9015930606,0.0648262809,0.410243927,False,False,True,galactitol degradation
+PWY-8190,QFY vs Mod,-0.8526779143,0.4589287132,-1.8579746478,0.0709332323,0.4422895658,False,False,True,L-glutamate degradation XI (reductive Stickland reaction)
+METSYN-PWY,QFY vs Mod,-0.3608798526,0.1957722033,-1.8433661493,0.0730853321,0.4491040695,False,False,True,superpathway of L-homoserine and L-methionine biosynthesis
+PWY-3661,QFY vs Mod,0.8077033518,0.4405127158,1.8335528645,0.0749987928,0.4542784021,False,False,True,glycine betaine degradation I
+PWY-6404,QFY vs Mod,0.6144400733,0.3155004529,1.9475093227,0.0774453844,0.4624907466,False,False,True,superpathway of mycolyl-arabinogalactan-peptidoglycan complex biosynthesis
+PWY-5022,QFY vs Mod,-0.431439461,0.2389616387,-1.8054758219,0.0789275483,0.4626744097,False,False,True,4-aminobutanoate degradation V
+PWY-5347,QFY vs Mod,-0.3445430254,0.1916039185,-1.798204484,0.0800927602,0.4626744097,False,False,True,superpathway of L-methionine biosynthesis (transsulfuration)
+PWY-7446,QFY vs Mod,0.7972972597,0.3072873284,2.5946311029,0.0807497791,0.4626744097,False,False,True,sulfoquinovose degradation I
+DHGLUCONATE-PYR-CAT-PWY,QFY vs Mod,-0.8304837221,0.4706756577,-1.7644501231,0.0869117045,0.4724431115,False,False,True,glucose degradation (oxidative)
+HISDEG-PWY,QFY vs Mod,0.3945212982,0.2234593344,1.7655171992,0.0855117786,0.4724431115,False,False,True,L-histidine degradation I
+PWY-6606,QFY vs Mod,0.3085454054,0.1752153173,1.7609499563,0.0862929565,0.4724431115,False,False,True,guanosine nucleotides degradation II
+PWY-7255,QFY vs Mod,-0.6066174185,0.3085531814,-1.9660060406,0.0848662681,0.4724431115,False,False,True,ergothioneine biosynthesis I (bacteria)
+MET-SAM-PWY,QFY vs Mod,-0.3325529676,0.1913403168,-1.7380182765,0.0903062883,0.4846818513,False,False,True,superpathway of S-adenosyl-L-methionine biosynthesis
+PWY-6531,QFY vs Mod,-0.6343612348,0.3710252936,-1.7097519917,0.0954669454,0.4902977284,False,False,True,mannitol cycle
+PWY-6565,QFY vs Mod,-0.7396758537,0.4161368694,-1.7774821414,0.0972100334,0.4902977284,False,False,True,superpathway of polyamine biosynthesis III
+PWY-6641,QFY vs Mod,-0.6244947477,0.3342305965,-1.8684547565,0.0945311975,0.4902977284,False,False,True,superpathway of sulfolactate degradation
+PWY-7039,QFY vs Mod,0.5813234431,0.31655714,1.8363934017,0.096164689,0.4902977284,False,False,True,"phosphatidate metabolism, as a signaling molecule"
+PWY0-1241,QFY vs Mod,-0.3024474163,0.175383533,-1.7244915252,0.0927460494,0.4902977284,False,False,True,ADP-L-glycero-&beta;-D-manno-heptose biosynthesis
+PWY0-1337,QFY vs Mod,0.5971325823,0.320495024,1.863157109,0.0994471808,0.4902977284,False,False,True,oleate &beta;-oxidation
+PWY1ZNC-1,QFY vs Mod,-0.3237745048,0.1913182548,-1.692334613,0.0987675048,0.4902977284,False,False,True,assimilatory sulfate reduction IV
+PWY-5030,QFY vs Mod,0.3526062756,0.2146804712,1.6424701954,0.1087436455,0.5191929129,False,False,True,L-histidine degradation III
+PWY-5104,QFY vs Mod,-0.7037614924,0.4275628262,-1.6459838164,0.1089815312,0.5191929129,False,False,True,L-isoleucine biosynthesis IV
+URSIN-PWY,QFY vs Mod,-0.5408529439,0.3191781358,-1.6945175224,0.1084058444,0.5191929129,False,False,True,ureide biosynthesis
+PWY-8020,QFY vs Mod,-0.5364694662,0.3143303422,-1.7067059528,0.1220606495,0.575041282,False,False,True,D-xylose degradation V
+PWY-5154,QFY vs Mod,0.3211906691,0.2046239268,1.5696633045,0.1247839898,0.5814111173,False,False,True,L-arginine biosynthesis III (via N-acetyl-L-citrulline)
+12DICHLORETHDEG-PWY,QFY vs Mod,-0.5338244995,0.2903253358,-1.838711382,0.1398072328,0.6064159561,False,False,True,"1,2-dichloroethane degradation"
+P261-PWY,QFY vs Mod,-0.5542429959,0.3010677471,-1.8409245138,0.1394488455,0.6064159561,False,False,True,coenzyme M biosynthesis I
+P4-PWY,QFY vs Mod,-0.2488770736,0.1646326515,-1.5117115065,0.1388797193,0.6064159561,False,False,True,"superpathway of L-lysine, L-threonine and L-methionine biosynthesis I"
+PROTOCATECHUATE-ORTHO-CLEAVAGE-PWY,QFY vs Mod,0.436772919,0.2872195814,1.5206933901,0.1366149617,0.6064159561,False,False,True,protocatechuate degradation II (ortho-cleavage pathway)
+PWY-5519,QFY vs Mod,-0.5566949633,0.3204466603,-1.7372468874,0.1330157203,0.6064159561,False,False,True,D-arabinose degradation III
+PWY-7356,QFY vs Mod,-0.2400118227,0.1592987614,-1.5066772681,0.1401621785,0.6064159561,False,False,True,thiamine diphosphate salvage IV (yeast)
+PWY0-321,QFY vs Mod,-0.4691179421,0.2973515168,-1.5776544447,0.1369671786,0.6064159561,False,False,True,phenylacetate degradation I (aerobic)
+CARNMET-PWY,QFY vs Mod,-0.5804153797,0.3874856419,-1.4979016431,0.1424203778,0.6099620223,False,False,True,L-carnitine degradation I
+PWY-5855,QFY vs Mod,-0.5055768359,0.3424141428,-1.4765068751,0.1480475787,0.6209849003,False,False,True,ubiquinol-7 biosynthesis (early decarboxylation)
+PWY-6397,QFY vs Mod,0.4997325182,0.3213908227,1.554905999,0.1482515744,0.6209849003,False,False,True,mycolyl-arabinogalactan-peptidoglycan complex biosynthesis
+PWY-6902,QFY vs Mod,-0.3011379452,0.2046460002,-1.4715066258,0.149387877,0.6209849003,False,False,True,chitin degradation II (Vibrio)
+PWY-6748,QFY vs Mod,-0.474387474,0.3114582299,-1.5231174792,0.1516788013,0.624386522,False,False,True,nitrate reduction VII (denitrification)
+PWY0-781,QFY vs Mod,-0.2344087186,0.1638600897,-1.4305418669,0.1607337277,0.6552990438,False,False,True,aspartate superpathway
+3-HYDROXYPHENYLACETATE-DEGRADATION-PWY,QFY vs Mod,-0.6453690835,0.3235963361,-1.994364619,0.1842724629,0.7038184639,False,False,True,4-hydroxyphenylacetate degradation
+ALLANTOINDEG-PWY,QFY vs Mod,-0.4101710151,0.2992572861,-1.3706300036,0.178532732,0.7038184639,False,False,True,superpathway of allantoin degradation in yeast
+GALACTARDEG-PWY,QFY vs Mod,-0.240034848,0.1781811918,-1.3471390869,0.1859143112,0.7038184639,False,False,True,D-galactarate degradation I
+GLUCARGALACTSUPER-PWY,QFY vs Mod,-0.240034848,0.1781811918,-1.3471390869,0.1859143112,0.7038184639,False,False,True,superpathway of D-glucarate and D-galactarate degradation
+P221-PWY,QFY vs Mod,-0.3774115956,0.2780778154,-1.357215767,0.1827196482,0.7038184639,False,False,True,octane oxidation
+PWY-1861,QFY vs Mod,-0.4930777512,0.3570963257,-1.3807976047,0.1754089168,0.7038184639,False,False,True,formaldehyde assimilation II (assimilatory RuMP Cycle)
+PWY-5747,QFY vs Mod,-0.8103745424,0.5948157286,-1.3623959547,0.1820304185,0.7038184639,False,False,True,2-methylcitrate cycle II
+PWY-6895,QFY vs Mod,-0.2163678778,0.1580908477,-1.3686300057,0.1791522317,0.7038184639,False,False,True,superpathway of thiamine diphosphate biosynthesis II
+PWY0-1061,QFY vs Mod,0.2519275579,0.1889785378,1.3331014243,0.1904360857,0.7145566402,False,False,True,superpathway of L-alanine biosynthesis
+CATECHOL-ORTHO-CLEAVAGE-PWY,QFY vs Mod,0.4894562809,0.3582102938,1.3663936781,0.1933612801,0.7171836361,False,False,True,catechol degradation to &beta;-ketoadipate
+RUMP-PWY,QFY vs Mod,-0.4515641202,0.3419273755,-1.3206433661,0.1945191466,0.7171836361,False,False,True,formaldehyde oxidation I
+CITRULBIO-PWY,QFY vs Mod,-0.2085470133,0.1605767806,-1.298737043,0.201860292,0.7192333093,False,False,True,L-citrulline biosynthesis
+PWY-5417,QFY vs Mod,0.4761321509,0.3536950218,1.3461658252,0.2012543432,0.7192333093,False,False,True,catechol degradation III (ortho-cleavage pathway)
+PWY-5431,QFY vs Mod,0.4761321509,0.3536950218,1.3461658252,0.2012543432,0.7192333093,False,False,True,aromatic compounds degradation via &beta;-ketoadipate
+PWY-5850,QFY vs Mod,0.2521893249,0.1940040621,1.2999177549,0.201459334,0.7192333093,False,False,True,superpathway of menaquinol-6 biosynthesis
+ARGSYNBSUB-PWY,QFY vs Mod,-0.1918377787,0.1485081101,-1.2917663463,0.2042398074,0.7216473195,False,False,True,L-arginine biosynthesis II (acetyl cycle)
+PWY-7316,QFY vs Mod,0.2776281748,0.2161862356,1.2842083768,0.2068437044,0.7248076913,False,False,True,dTDP-N-acetylviosamine biosynthesis
+PWY-4984,QFY vs Mod,-0.2252004284,0.1796852073,-1.2533053327,0.217751481,0.7524275707,False,False,True,urea cycle
+PWY-5913,QFY vs Mod,-0.3369622252,0.270230613,-1.2469431998,0.2200495726,0.7524275707,False,False,True,partial TCA cycle (obligate autotrophs)
+PWY-6891,QFY vs Mod,-0.3477388161,0.2703173732,-1.2864094231,0.2191672148,0.7524275707,False,False,True,thiazole component of thiamine diphosphate biosynthesis II
+NAGLIPASYN-PWY,QFY vs Mod,0.2283337687,0.1891798768,1.2069664729,0.2349048811,0.7781224187,False,False,True,lipid IVA biosynthesis (E. coli)
+PWY-5860,QFY vs Mod,0.2460334209,0.2032593792,1.2104406783,0.2335852611,0.7781224187,False,False,True,superpathway of demethylmenaquinol-6 biosynthesis I
+PWY-7900,QFY vs Mod,-0.5725276641,0.4686646171,-1.2216148674,0.2324126693,0.7781224187,False,False,True,glycogen biosynthesis III (from &alpha;-maltose 1-phosphate)
+PWY-8073,QFY vs Mod,0.2283337687,0.1891798768,1.2069664729,0.2349048811,0.7781224187,False,False,True,lipid IVA biosynthesis (P. putida)
+P562-PWY,QFY vs Mod,-0.4745095714,0.4047234441,-1.1724291694,0.2485184349,0.8131538732,False,False,True,myo-inositol degradation I
+PWY-7371,QFY vs Mod,-0.4537064426,0.3878075319,-1.1699268458,0.249316046,0.8131538732,False,False,True,"1,4-dihydroxy-6-naphthoate biosynthesis II"
+UDPNAGSYN-PWY,QFY vs Mod,-0.1602575216,0.1377821044,-1.1631229058,0.2520317474,0.8157363427,False,False,True,UDP-N-acetyl-D-glucosamine biosynthesis I
+GLYCOLYSIS-E-D,QFY vs Mod,-0.6902136418,0.605840625,-1.1392660268,0.2623296631,0.8252829981,False,False,True,superpathway of glycolysis and the Entner-Doudoroff pathway
+PWY-6071,QFY vs Mod,-0.4039097367,0.3399723602,-1.1880663958,0.2622581518,0.8252829981,False,False,True,superpathway of phenylethylamine degradation
+PWY-6182,QFY vs Mod,0.4114148148,0.3516361071,1.1700016196,0.2647134145,0.8252829981,False,False,True,superpathway of salicylate degradation
+PWY-7374,QFY vs Mod,-0.4381607888,0.3856028883,-1.1363005882,0.2629462868,0.8252829981,False,False,True,"1,4-dihydroxy-6-naphthoate biosynthesis I"
+PWY1G-0,QFY vs Mod,-0.38980797,0.3362759917,-1.1591906042,0.257782229,0.8252829981,False,False,True,mycothiol biosynthesis
+PWY-5130,QFY vs Mod,-0.2460062726,0.2185420716,-1.1256700858,0.2673646559,0.8274643366,False,False,True,2-oxobutanoate degradation I
+PWY-8004,QFY vs Mod,-0.6801223759,0.6122665411,-1.1108272791,0.2742158557,0.8425182811,False,False,True,Entner-Doudoroff pathway I
+PWY-5840,QFY vs Mod,0.1674813097,0.1544717653,1.0842195622,0.2850987455,0.8512807611,False,False,True,superpathway of menaquinol-7 biosynthesis
+PWY-7115,QFY vs Mod,0.2004247123,0.1842561395,1.0877505241,0.2835565566,0.8512807611,False,False,True,"C4 photosynthetic carbon assimilation cycle, NAD-ME type"
+PWY-7234,QFY vs Mod,0.1931063313,0.1774196915,1.0884154383,0.283266806,0.8512807611,False,False,True,inosine-5'-phosphate biosynthesis III
+PWY-7855,QFY vs Mod,0.3481955391,0.3001467868,1.16008418,0.279462407,0.8512807611,False,False,True,ectoine degradation
+PWY-7199,QFY vs Mod,0.6136254014,0.5713526959,1.0739870587,0.2899746858,0.8597850823,False,False,True,pyrimidine deoxyribonucleosides salvage
+PWY-6703,QFY vs Mod,0.1870804395,0.1759444779,1.0632924757,0.2943599132,0.8617027158,False,False,True,preQ0 biosynthesis
+PWY-7399,QFY vs Mod,-0.2728038071,0.25674108,-1.062563915,0.2946860703,0.8617027158,False,False,True,methylphosphonate degradation II
+PWY-5838,QFY vs Mod,0.1678761322,0.158893176,1.0565345625,0.2973949151,0.8618764889,False,False,True,superpathway of menaquinol-8 biosynthesis I
+PWY-6948,QFY vs Mod,0.2862931896,0.267166824,1.0715895986,0.3008436801,0.8618764889,False,False,True,sitosterol degradation to androstenedione
+PWY-7254,QFY vs Mod,-0.2506189572,0.2385231743,-1.0507111433,0.300027624,0.8618764889,False,False,True,TCA cycle VII (acetate-producers)
+FAO-PWY,QFY vs Mod,-0.5980240467,0.5947914015,-1.0054349224,0.3213980016,0.8760190605,False,False,True,fatty acid &beta;-oxidation I (generic)
+P164-PWY,QFY vs Mod,0.1740994187,0.1685849913,1.0327100731,0.3082676828,0.8760190605,False,False,True,purine nucleobases degradation I (anaerobic)
+PWY-5897,QFY vs Mod,0.1609686071,0.1605219577,1.0027824818,0.3223088996,0.8760190605,False,False,True,superpathway of menaquinol-11 biosynthesis
+PWY-5898,QFY vs Mod,0.1609686071,0.1605219577,1.0027824818,0.3223088996,0.8760190605,False,False,True,superpathway of menaquinol-12 biosynthesis
+PWY-5899,QFY vs Mod,0.1609686071,0.1605219577,1.0027824818,0.3223088996,0.8760190605,False,False,True,superpathway of menaquinol-13 biosynthesis
+PWY-7373,QFY vs Mod,-0.367785378,0.3628226118,-1.0136782162,0.3171474488,0.8760190605,False,False,True,superpathway of demethylmenaquinol-6 biosynthesis II
+PWY-7992,QFY vs Mod,-0.3442069772,0.3391778092,-1.0148275266,0.3166063095,0.8760190605,False,False,True,superpathway of menaquinol-8 biosynthesis III
+REDCITCYC,QFY vs Mod,-0.302780611,0.2986641098,-1.013783046,0.3170980647,0.8760190605,False,False,True,TCA cycle VI (Helicobacter)
+PWY-6060,QFY vs Mod,0.3059070383,0.3021868938,1.012310741,0.3248046354,0.8771793975,False,False,True,malonate degradation II (biotin-dependent)
+PWY-7282,QFY vs Mod,-0.3404923915,0.3459265186,-0.9842910942,0.3311982813,0.8864432807,False,False,True,4-amino-2-methyl-5-diphosphomethylpyrimidine biosynthesis II
+PWY0-845,QFY vs Mod,-0.3572880963,0.3655143436,-0.9774940507,0.3345068984,0.8864432807,False,False,True,superpathway of pyridoxal 5'-phosphate biosynthesis and salvage
+SALVADEHYPOX-PWY,QFY vs Mod,-0.2702064655,0.2757982242,-0.9797251824,0.3334184094,0.8864432807,False,False,True,adenosine nucleotides degradation II
+PWY-5419,QFY vs Mod,-0.3098835414,0.3204178934,-0.9671230845,0.339761921,0.8893364663,False,False,True,catechol degradation to 2-hydroxypentadienoate II
+PYRIDOXSYN-PWY,QFY vs Mod,-0.359346933,0.3717153563,-0.9667260902,0.3397936498,0.8893364663,False,False,True,pyridoxal 5'-phosphate biosynthesis I
+PWY-6185,QFY vs Mod,-0.3107258931,0.3144038989,-0.9883016534,0.3425142794,0.8909573893,False,False,True,4-methylcatechol degradation (ortho cleavage)
+PWY-7159,QFY vs Mod,-0.3188319072,0.3246766385,-0.9819983003,0.345485462,0.8932063164,False,False,True,"3,8-divinyl-chlorophyllide a biosynthesis III (aerobic, light independent)"
+PWY-5861,QFY vs Mod,0.1563110747,0.1650870733,0.9468401828,0.3497026963,0.8986299589,False,False,True,superpathway of demethylmenaquinol-8 biosynthesis I
+HSERMETANA-PWY,QFY vs Mod,0.1599069241,0.1705536161,0.9375756885,0.3543836437,0.8990061813,False,False,True,L-methionine biosynthesis III
+PWY-4702,QFY vs Mod,-0.5315339082,0.5738150846,-0.9263156763,0.3604505916,0.8990061813,False,False,True,phytate degradation I
+PWY-6607,QFY vs Mod,-0.267602868,0.2881335034,-0.9287461016,0.3588829763,0.8990061813,False,False,True,guanosine nucleotides degradation I
+PWY-8187,QFY vs Mod,-0.1902912321,0.204379886,-0.9310663385,0.3576970401,0.8990061813,False,False,True,L-arginine degradation XIII (reductive Stickland reaction)
+RHAMCAT-PWY,QFY vs Mod,0.2305651794,0.2484959762,0.9278427076,0.35934542,0.8990061813,False,False,True,L-rhamnose degradation I
+PWY-6435,QFY vs Mod,-0.5044725933,0.55394184,-0.9106959556,0.3685133555,0.9137407176,False,False,True,4-hydroxybenzoate biosynthesis III (plants)
+P108-PWY,QFY vs Mod,-0.524618869,0.5855993218,-0.8958665925,0.3761157065,0.9218095928,False,False,True,pyruvate fermentation to propanoate I
+PWY-7883,QFY vs Mod,0.1678790391,0.1868036508,0.8986924955,0.3744759504,0.9218095928,False,False,True,anhydromuropeptides recycling II
+DENOVOPURINE2-PWY,QFY vs Mod,0.119487123,0.1353399063,0.882866896,0.3828594526,0.9292624788,False,False,True,superpathway of purine nucleotides de novo biosynthesis II
+KDO-NAGLIPASYN-PWY,QFY vs Mod,-0.6110529484,0.6959264621,-0.8780424106,0.3855870067,0.9292624788,False,False,True,superpathway of (Kdo)2-lipid A biosynthesis
+PWY-6263,QFY vs Mod,-0.2787933135,0.3177146035,-0.8774960625,0.385731595,0.9292624788,False,False,True,superpathway of menaquinol-8 biosynthesis II
+PWY-5136,QFY vs Mod,-0.5121721872,0.5910577197,-0.8665349765,0.3919357769,0.9335998282,False,False,True,fatty acid &beta;-oxidation II (plant peroxisome)
+PWY-6147,QFY vs Mod,0.1477732632,0.1704149764,0.8671377735,0.3913093932,0.9335998282,False,False,True,6-hydroxymethyl-dihydropterin diphosphate biosynthesis I
+GLUDEG-I-PWY,QFY vs Mod,0.1353151794,0.1621773764,0.8343653254,0.4092899037,0.9356362966,False,False,True,GABA shunt
+P42-PWY,QFY vs Mod,0.1434440183,0.1709949213,0.838878823,0.4067836414,0.9356362966,False,False,True,incomplete reductive TCA cycle
+PPGPPMET-PWY,QFY vs Mod,0.1475646205,0.1715714235,0.8600769139,0.3951406082,0.9356362966,False,False,True,ppGpp metabolism
+PWY-5209,QFY vs Mod,0.2641180432,0.3031993281,0.8711036561,0.4041252311,0.9356362966,False,False,True,methyl-coenzyme M oxidation to CO2
+PWY-5392,QFY vs Mod,-0.50604749,0.6078334128,-0.8325430608,0.4104442244,0.9356362966,False,False,True,reductive TCA cycle II
+PWY-6353,QFY vs Mod,-0.2257612845,0.2670939287,-0.845250529,0.4032617996,0.9356362966,False,False,True,purine nucleotides degradation II (aerobic)
+PWY-7094,QFY vs Mod,-0.5158419777,0.6080344937,-0.8483761744,0.4018344167,0.9356362966,False,False,True,fatty acid salvage
+PWY-7295,QFY vs Mod,0.2866208731,0.3182997009,0.9004748426,0.402561945,0.9356362966,False,False,True,L-arabinose degradation IV
+GLYCOL-GLYOXDEG-PWY,QFY vs Mod,-0.5210417358,0.6409628325,-0.8129047573,0.4216163395,0.9432792885,False,False,True,superpathway of glycol metabolism and degradation
+HEXITOLDEGSUPER-PWY,QFY vs Mod,-0.1849446222,0.2297938946,-0.8048282683,0.4259258993,0.9432792885,False,False,True,superpathway of hexitol degradation (bacteria)
+PWY-5265,QFY vs Mod,-0.2256371198,0.2831316262,-0.796933648,0.4304409363,0.9432792885,False,False,True,peptidoglycan biosynthesis II (staphylococci)
+PWY-6292,QFY vs Mod,-0.1401756611,0.1763384018,-0.794924189,0.4315947688,0.9432792885,False,False,True,superpathway of L-cysteine biosynthesis (mammalian)
+PWY-6478,QFY vs Mod,-0.1336308317,0.1669560797,-0.8003951215,0.4284577275,0.9432792885,False,False,True,GDP-D-glycero-&alpha;-D-manno-heptose biosynthesis
+PWY-6608,QFY vs Mod,-0.2328361192,0.2875136087,-0.8098264296,0.4230822975,0.9432792885,False,False,True,guanosine nucleotides degradation III
+PWY-6823,QFY vs Mod,-0.1522375506,0.1860452094,-0.8182825619,0.4182977535,0.9432792885,False,False,True,molybdopterin biosynthesis
+PWY-7805,QFY vs Mod,0.2950223179,0.3593548787,0.8209776334,0.4169174269,0.9432792885,False,False,True,(aminomethyl)phosphonate degradation
+ARGININE-SYN4-PWY,QFY vs Mod,-0.1908857381,0.2418205922,-0.7893692443,0.4347941055,0.9453984652,False,False,True,L-ornithine biosynthesis II
+PWY-5920,QFY vs Mod,-0.4454884335,0.5699844385,-0.781579993,0.4395716364,0.9509100706,False,False,True,superpathway of heme b biosynthesis from glycine
+PWY-6307,QFY vs Mod,-0.3430389565,0.4454218365,-0.7701440036,0.4474431815,0.9581611563,False,False,True,"L-tryptophan degradation X (mammalian, via tryptamine)"
+PWY-6471,QFY vs Mod,0.1774495041,0.2309670649,0.7682892114,0.4470638881,0.9581611563,False,False,True,peptidoglycan biosynthesis IV (Enterococcus faecium)
+PWY-6467,QFY vs Mod,0.1337025794,0.1755423542,0.7616542458,0.4509678086,0.9608560343,False,False,True,Kdo transfer to lipid IVA III (Chlamydia)
+PWY-6595,QFY vs Mod,-0.1957324871,0.2628894225,-0.7445430295,0.4611279149,0.967912059,False,False,True,superpathway of guanosine nucleotides degradation (plants)
+PWY-7118,QFY vs Mod,-0.5167147287,0.6890286826,-0.7499175894,0.4581775096,0.967912059,False,False,True,chitin deacetylation
+PWY-7208,QFY vs Mod,0.1078602592,0.1445646646,0.7461038938,0.4601956415,0.967912059,False,False,True,superpathway of pyrimidine nucleobases salvage
+PWY-6562,QFY vs Mod,-0.3494517004,0.4748099844,-0.7359822073,0.466789082,0.9681408587,False,False,True,norspermidine biosynthesis
+PWY-7117,QFY vs Mod,-0.1419901042,0.1937243599,-0.7329491463,0.4680869718,0.9681408587,False,False,True,"C4 photosynthetic carbon assimilation cycle, PEPCK type"
+PWY-7674,QFY vs Mod,-0.2358838682,0.302568732,-0.7796042461,0.465254233,0.9681408587,False,False,True,"CMP-8-amino-3,8-dideoxy-D-manno-octulosonate biosynthesis"
+ARGSYN-PWY,QFY vs Mod,-0.1010775219,0.143733328,-0.7032295384,0.486199229,0.9714761221,False,False,True,L-arginine biosynthesis I (via L-ornithine)
+DARABCATK12-PWY,QFY vs Mod,0.1300814377,0.1867496908,0.6965550365,0.4903204956,0.9714761221,False,False,True,D-arabinose degradation I
+GLYCOCAT-PWY,QFY vs Mod,-0.344311824,0.4830441082,-0.7127958259,0.4804435588,0.9714761221,False,False,True,glycogen degradation I
+PWY-1269,QFY vs Mod,0.1223809042,0.1714794573,0.7136767637,0.4797877251,0.9714761221,False,False,True,CMP-3-deoxy-D-manno-octulosonate biosynthesis
+PWY-5677,QFY vs Mod,-0.322783644,0.4615588566,-0.6993336589,0.4886024257,0.9714761221,False,False,True,succinate fermentation to butanoate
+PWY-6749,QFY vs Mod,0.1287934707,0.1788821801,0.7199905021,0.4759363196,0.9714761221,False,False,True,CMP-legionaminate biosynthesis I
+PWY-7913,QFY vs Mod,-0.2872411043,0.4021211576,-0.7143148249,0.4837167491,0.9714761221,False,False,True,firefly bioluminescence
+PWY0-1477,QFY vs Mod,-0.2040530599,0.2836803928,-0.7193061806,0.4763529051,0.9714761221,False,False,True,ethanolamine utilization
+PYRIDNUCSAL-PWY,QFY vs Mod,-0.1061182629,0.1503338533,-0.705884008,0.484565618,0.9714761221,False,False,True,NAD salvage pathway I (PNC VI cycle)
+GALLATE-DEGRADATION-I-PWY,QFY vs Mod,-0.2144254636,0.3007707559,-0.7129199213,0.4961609266,0.9716648044,False,False,True,gallate degradation II
+PENTOSE-P-PWY,QFY vs Mod,-0.113614497,0.1657788982,-0.6853375085,0.4972907136,0.9716648044,False,False,True,pentose phosphate pathway
+PWY0-162,QFY vs Mod,-0.112411143,0.1628400186,-0.6903164466,0.4941902011,0.9716648044,False,False,True,superpathway of pyrimidine ribonucleotides de novo biosynthesis
+1CMET2-PWY,QFY vs Mod,0.0484578437,0.1611944794,0.3006172659,0.7653450021,0.9743049815,False,False,True,folate transformations III (E. coli)
+ANAEROFRUCAT-PWY,QFY vs Mod,-0.0836266522,0.1495161441,-0.5593152009,0.579228493,0.9743049815,False,False,True,homolactic fermentation
+ANAGLYCOLYSIS-PWY,QFY vs Mod,-0.0227479835,0.137226796,-0.1657692529,0.8692173677,0.9743049815,False,False,True,glycolysis III (from glucose)
+ARO-PWY,QFY vs Mod,0.0223665712,0.1715713354,0.1303631,0.8969668379,0.9743049815,False,False,True,chorismate biosynthesis I
+ASPASN-PWY,QFY vs Mod,0.0964293492,0.1798107193,0.5362825398,0.5948890148,0.9743049815,False,False,True,superpathway of L-aspartate and L-asparagine biosynthesis
+AST-PWY,QFY vs Mod,0.0828030492,0.7025979901,0.1178526702,0.9069210482,0.9743049815,False,False,True,L-arginine degradation II (AST pathway)
+BRANCHED-CHAIN-AA-SYN-PWY,QFY vs Mod,0.0557852424,0.1726996327,0.3230188827,0.748451762,0.9743049815,False,False,True,superpathway of branched chain amino acid biosynthesis
+CALVIN-PWY,QFY vs Mod,-0.0614549621,0.156440161,-0.392833667,0.6966374481,0.9743049815,False,False,True,Calvin-Benson-Bassham cycle
+CHLOROPHYLL-SYN,QFY vs Mod,-0.1074189037,0.3540213204,-0.3034249564,0.7660283531,0.9743049815,False,False,True,"3,8-divinyl-chlorophyllide a biosynthesis I (aerobic, light-dependent)"
+COA-PWY-1,QFY vs Mod,-0.0151133373,0.1378607195,-0.1096275819,0.9132816423,0.9743049815,False,False,True,superpathway of coenzyme A biosynthesis III (mammals)
+COLANSYN-PWY,QFY vs Mod,0.1139308967,0.1707694248,0.6671621507,0.5086998753,0.9743049815,False,False,True,colanic acid building blocks biosynthesis
+COMPLETE-ARO-PWY,QFY vs Mod,-0.0685392756,0.1662043371,-0.4123795855,0.6823785437,0.9743049815,False,False,True,superpathway of aromatic amino acid biosynthesis
+DAPLYSINESYN-PWY,QFY vs Mod,0.0299636632,0.1428996496,0.2096832519,0.8350350508,0.9743049815,False,False,True,L-lysine biosynthesis I
+DTDPRHAMSYN-PWY,QFY vs Mod,0.0744798519,0.1681449787,0.4429501999,0.6603132114,0.9743049815,False,False,True,dTDP-&beta;-L-rhamnose biosynthesis
+ECASYN-PWY,QFY vs Mod,0.0789702186,0.7645141984,0.1032946396,0.9183187364,0.9743049815,False,False,True,enterobacterial common antigen biosynthesis
+FERMENTATION-PWY,QFY vs Mod,-0.0237793584,0.1323328642,-0.1796935219,0.8583479722,0.9743049815,False,False,True,mixed acid fermentation
+FOLSYN-PWY,QFY vs Mod,0.0197197093,0.1463439016,0.1347491021,0.8935214616,0.9743049815,False,False,True,superpathway of tetrahydrofolate biosynthesis and salvage
+FUCCAT-PWY,QFY vs Mod,0.1162026737,0.1808943621,0.6423786368,0.5244842987,0.9743049815,False,False,True,fucose degradation
+GLCMANNANAUT-PWY,QFY vs Mod,-0.0698949672,0.1712268655,-0.4082009383,0.6854172266,0.9743049815,False,False,True,"superpathway of N-acetylglucosamine, N-acetylmannosamine and N-acetylneuraminate degradation"
+GLUCONEO-PWY,QFY vs Mod,0.0239366968,0.1498942836,0.1596905244,0.8739706731,0.9743049815,False,False,True,gluconeogenesis I
+GLUCOSE1PMETAB-PWY,QFY vs Mod,0.0245536164,0.152431158,0.1610800356,0.8728837111,0.9743049815,False,False,True,glucose and glucose-1-phosphate degradation
+GLUTORN-PWY,QFY vs Mod,0.0196333766,0.1825102389,0.1075741103,0.9148995128,0.9743049815,False,False,True,L-ornithine biosynthesis I
+GLYCOGENSYNTH-PWY,QFY vs Mod,0.0179816611,0.1598331555,0.1125026971,0.911017052,0.9743049815,False,False,True,glycogen biosynthesis I (from ADP-D-Glucose)
+GLYCOLYSIS,QFY vs Mod,-0.0753095239,0.1398309213,-0.5385756114,0.5933209103,0.9743049815,False,False,True,glycolysis I (from glucose 6-phosphate)
+GLYOXYLATE-BYPASS,QFY vs Mod,-0.3110534279,0.6253710535,-0.4973901912,0.6219383955,0.9743049815,False,False,True,glyoxylate cycle
+GOLPDLCAT-PWY,QFY vs Mod,0.0572340633,0.2715339592,0.2107804986,0.8341848073,0.9743049815,False,False,True,"superpathway of glycerol degradation to 1,3-propanediol"
+HEME-BIOSYNTHESIS-II-1,QFY vs Mod,0.1293406267,0.1950445874,0.6631336376,0.5112478701,0.9743049815,False,False,True,heme b biosynthesis V (aerobic)
+HEMESYN2-PWY,QFY vs Mod,0.0590665749,0.1947731194,0.3032583502,0.7633471093,0.9743049815,False,False,True,heme b biosynthesis II (oxygen-independent)
+HISTSYN-PWY,QFY vs Mod,-0.0681512352,0.1599813213,-0.4259949512,0.6725148588,0.9743049815,False,False,True,L-histidine biosynthesis
+ILEUSYN-PWY,QFY vs Mod,0.045564973,0.1693415872,0.2690713709,0.7893303667,0.9743049815,False,False,True,L-isoleucine biosynthesis I (from threonine)
+LACTOSECAT-PWY,QFY vs Mod,-0.1106564262,0.2709737442,-0.4083658604,0.6852971957,0.9743049815,False,False,True,lactose and galactose degradation I
+LIPA-CORESYN-PWY,QFY vs Mod,0.2051498623,0.7015552626,0.2924215286,0.7718520304,0.9743049815,False,False,True,lipid A-core biosynthesis (E. coli K-12)
+LPSSYN-PWY,QFY vs Mod,0.237696505,0.6767991142,0.3512068796,0.727735054,0.9743049815,False,False,True,superpathway of lipopolysaccharide biosynthesis
+METHGLYUT-PWY,QFY vs Mod,-0.1880651668,0.7561801309,-0.2487041898,0.8050432213,0.9743049815,False,False,True,superpathway of methylglyoxal degradation
+NONMEVIPP-PWY,QFY vs Mod,0.0465869359,0.172969558,0.2693360404,0.789128227,0.9743049815,False,False,True,methylerythritol phosphate pathway I
+NONOXIPENT-PWY,QFY vs Mod,-0.0317342548,0.1548240469,-0.2049698057,0.8386897128,0.9743049815,False,False,True,pentose phosphate pathway (non-oxidative branch) I
+OANTIGEN-PWY,QFY vs Mod,-0.0631833117,0.1363286359,-0.4634632425,0.6456760954,0.9743049815,False,False,True,O-antigen building blocks biosynthesis (E. coli)
+ORNDEG-PWY,QFY vs Mod,-0.1046992261,0.742599245,-0.1409902135,0.8887348196,0.9743049815,False,False,True,superpathway of ornithine degradation
+P105-PWY,QFY vs Mod,0.1385041842,0.3423847565,0.4045278931,0.6901181676,0.9743049815,False,False,True,TCA cycle IV (2-oxoglutarate decarboxylase)
+P125-PWY,QFY vs Mod,-0.2255283735,0.3476572948,-0.6487088775,0.5204279419,0.9743049815,False,False,True,"superpathway of (R,R)-butanediol biosynthesis"
+P185-PWY,QFY vs Mod,0.1182445727,0.2177383993,0.5430579681,0.5902613732,0.9743049815,False,False,True,formaldehyde assimilation III (dihydroxyacetone cycle)
+P23-PWY,QFY vs Mod,-0.0979275085,0.150495103,-0.650702292,0.5191540703,0.9743049815,False,False,True,reductive TCA cycle I
+P341-PWY,QFY vs Mod,-0.127605013,0.6220221931,-0.2051454344,0.8394339528,0.9743049815,False,False,True,glycolysis V (Pyrococcus)
+P441-PWY,QFY vs Mod,0.1044236188,0.2887049241,0.3616967017,0.7195822259,0.9743049815,False,False,True,superpathway of N-acetylneuraminate degradation
+P461-PWY,QFY vs Mod,-0.1372545342,0.3320652472,-0.4133360397,0.6816837671,0.9743049815,False,False,True,"hexitol fermentation to lactate, formate, ethanol and acetate"
+PANTO-PWY,QFY vs Mod,0.0871898704,0.1644814524,0.5300893756,0.5991339825,0.9743049815,False,False,True,phosphopantothenate biosynthesis I
+PANTOSYN-PWY,QFY vs Mod,0.0530330284,0.1543659288,0.3435539746,0.7330753984,0.9743049815,False,False,True,superpathway of coenzyme A biosynthesis I (bacteria)
+PEPTIDOGLYCANSYN-PWY,QFY vs Mod,0.0258010599,0.1438883008,0.1793131184,0.8586445577,0.9743049815,False,False,True,peptidoglycan biosynthesis I (meso-diaminopimelate containing)
+PHOSLIPSYN-PWY,QFY vs Mod,-0.0218934002,0.1413078479,-0.1549340718,0.8776933262,0.9743049815,False,False,True,superpathway of phospholipid biosynthesis I (bacteria)
+POLYISOPRENSYN-PWY,QFY vs Mod,0.0492850778,0.1452661093,0.3392744398,0.7362709192,0.9743049815,False,False,True,polyisoprenoid biosynthesis (E. coli)
+PWY-1042,QFY vs Mod,-0.0495252852,0.1479928361,-0.3346465037,0.7397319358,0.9743049815,False,False,True,glycolysis IV
+PWY-1541,QFY vs Mod,-0.1000217881,0.3478578565,-0.2875363778,0.7766598743,0.9743049815,False,False,True,superpathway of taurine degradation
+PWY-1622,QFY vs Mod,-0.0297070991,0.2309037741,-0.1286557539,0.8983085753,0.9743049815,False,False,True,formaldehyde assimilation I (serine pathway)
+PWY-181,QFY vs Mod,0.1178764293,0.6094745613,0.1934066436,0.8478260374,0.9743049815,False,False,True,photorespiration
+PWY-241,QFY vs Mod,-0.1179027813,0.1931832317,-0.6103158136,0.5452856317,0.9743049815,False,False,True,"C4 photosynthetic carbon assimilation cycle, NADP-ME type"
+PWY-2941,QFY vs Mod,-0.0996870525,0.1597543713,-0.6240020329,0.5363545812,0.9743049815,False,False,True,L-lysine biosynthesis II
+PWY-2942,QFY vs Mod,0.0312408893,0.1458825883,0.2141509121,0.8315743789,0.9743049815,False,False,True,L-lysine biosynthesis III
+PWY-3001,QFY vs Mod,0.0435466884,0.1563572103,0.2785077091,0.7821326332,0.9743049815,False,False,True,superpathway of L-isoleucine biosynthesis I
+PWY-3841,QFY vs Mod,0.0291586234,0.1415804648,0.205950895,0.837928705,0.9743049815,False,False,True,folate transformations II (plants)
+PWY-4321,QFY vs Mod,0.1818114842,0.2929180258,0.6206906648,0.5464114559,0.9743049815,False,False,True,L-glutamate degradation IV
+PWY-5097,QFY vs Mod,0.0286953541,0.1482730443,0.1935304843,0.8475743153,0.9743049815,False,False,True,L-lysine biosynthesis VI
+PWY-5100,QFY vs Mod,0.0636999009,0.1611094014,0.3953828911,0.6947712984,0.9743049815,False,False,True,pyruvate fermentation to acetate and lactate II
+PWY-5101,QFY vs Mod,-0.024558565,0.2442441772,-0.1005492345,0.920436939,0.9743049815,False,False,True,L-isoleucine biosynthesis II
+PWY-5103,QFY vs Mod,0.0570679634,0.1730394092,0.3297974936,0.7433641712,0.9743049815,False,False,True,L-isoleucine biosynthesis III
+PWY-5121,QFY vs Mod,0.0388369807,0.164706114,0.2357956227,0.814857524,0.9743049815,False,False,True,superpathway of geranylgeranyl diphosphate biosynthesis II (via MEP)
+PWY-5138,QFY vs Mod,-0.1492851801,0.7103187141,-0.2101664748,0.8347564469,0.9743049815,False,False,True,"fatty acid &beta;-oxidation IV (unsaturated, even number)"
+PWY-5345,QFY vs Mod,0.0980967169,0.2201906437,0.4455081071,0.6584804655,0.9743049815,False,False,True,superpathway of L-methionine biosynthesis (by sulfhydrylation)
+PWY-5384,QFY vs Mod,0.0610541562,0.1506539114,0.4052610094,0.6875583016,0.9743049815,False,False,True,sucrose degradation IV (sucrose phosphorylase)
+PWY-5415,QFY vs Mod,-0.1341443858,0.3564095106,-0.3763771218,0.7112927135,0.9743049815,False,False,True,catechol degradation I (meta-cleavage pathway)
+PWY-5420,QFY vs Mod,-0.1504108296,0.3514027451,-0.4280297513,0.6743352951,0.9743049815,False,False,True,catechol degradation II (meta-cleavage pathway)
+PWY-5430,QFY vs Mod,-0.0542979409,0.2923381817,-0.1857367402,0.8644999618,0.9743049815,False,False,True,meta cleavage pathway of aromatic compounds
+PWY-5484,QFY vs Mod,-0.0665190162,0.1369414676,-0.4857477972,0.6299352258,0.9743049815,False,False,True,glycolysis II (from fructose 6-phosphate)
+PWY-5494,QFY vs Mod,-0.2470447097,0.4949597563,-0.4991208002,0.6205717018,0.9743049815,False,False,True,pyruvate fermentation to propanoate II (acrylate pathway)
+PWY-5497,QFY vs Mod,-0.0467832292,0.2296939134,-0.2036763992,0.8396932172,0.9743049815,False,False,True,purine nucleobases degradation II (anaerobic)
+PWY-5505,QFY vs Mod,-0.1111006849,0.2293449812,-0.484426057,0.6308640843,0.9743049815,False,False,True,L-glutamate and L-glutamine biosynthesis
+PWY-561,QFY vs Mod,0.0559421212,0.3381890741,0.1654167019,0.8705671915,0.9743049815,False,False,True,superpathway of glyoxylate cycle and fatty acid degradation
+PWY-5659,QFY vs Mod,0.0800941622,0.1687119361,0.4747391564,0.6376900353,0.9743049815,False,False,True,GDP-mannose biosynthesis
+PWY-5667,QFY vs Mod,-0.0532817288,0.1384425371,-0.3848653016,0.7024829359,0.9743049815,False,False,True,CDP-diacylglycerol biosynthesis I
+PWY-5695,QFY vs Mod,0.0450679042,0.1492447608,0.3019731073,0.7643191492,0.9743049815,False,False,True,inosine 5'-phosphate degradation
+PWY-5723,QFY vs Mod,-0.1078205865,0.3601244167,-0.2993981567,0.7662677666,0.9743049815,False,False,True,Rubisco shunt
+PWY-5837,QFY vs Mod,0.1117258679,0.1799043225,0.6210293689,0.5382878921,0.9743049815,False,False,True,"2-carboxy-1,4-naphthoquinol biosynthesis"
+PWY-5845,QFY vs Mod,0.065755366,0.262145327,0.2508355451,0.803292643,0.9743049815,False,False,True,superpathway of menaquinol-9 biosynthesis
+PWY-5862,QFY vs Mod,0.0528989106,0.2769131136,0.191030717,0.8495185426,0.9743049815,False,False,True,superpathway of demethylmenaquinol-9 biosynthesis
+PWY-5896,QFY vs Mod,0.065755366,0.262145327,0.2508355451,0.803292643,0.9743049815,False,False,True,superpathway of menaquinol-10 biosynthesis
+PWY-5910,QFY vs Mod,-0.098923438,0.3826054735,-0.2585520722,0.7981853589,0.9743049815,False,False,True,superpathway of geranylgeranyldiphosphate biosynthesis I (via mevalonate)
+PWY-5989,QFY vs Mod,-0.0668579099,0.2852259493,-0.2344033217,0.8159302956,0.9743049815,False,False,True,stearate biosynthesis II (bacteria and plants)
+PWY-6121,QFY vs Mod,0.0446032857,0.1376246122,0.3240938154,0.7476442194,0.9743049815,False,False,True,5-aminoimidazole ribonucleotide biosynthesis I
+PWY-6122,QFY vs Mod,0.0169127822,0.1364338809,0.1239632128,0.9019978081,0.9743049815,False,False,True,5-aminoimidazole ribonucleotide biosynthesis II
+PWY-6123,QFY vs Mod,-0.0162545287,0.1367186912,-0.118890318,0.9059885463,0.9743049815,False,False,True,inosine-5'-phosphate biosynthesis I
+PWY-6124,QFY vs Mod,-0.0311457732,0.1365899563,-0.2280238904,0.820850223,0.9743049815,False,False,True,inosine-5'-phosphate biosynthesis II
+PWY-6125,QFY vs Mod,0.0637280389,0.1386804208,0.4595316236,0.6484707096,0.9743049815,False,False,True,superpathway of guanosine nucleotides de novo biosynthesis II
+PWY-6126,QFY vs Mod,0.0530825698,0.1360359398,0.3902098952,0.6985601659,0.9743049815,False,False,True,superpathway of adenosine nucleotides de novo biosynthesis II
+PWY-6143,QFY vs Mod,-0.2057431083,0.402315312,-0.5113976578,0.6120315618,0.9743049815,False,False,True,CMP-pseudaminate biosynthesis
+PWY-6151,QFY vs Mod,0.0362096914,0.147403437,0.2456502516,0.8072749382,0.9743049815,False,False,True,S-adenosyl-L-methionine salvage I
+PWY-6163,QFY vs Mod,0.0246539994,0.1732802695,0.1422781688,0.8876119913,0.9743049815,False,False,True,chorismate biosynthesis from 3-dehydroquinate
+PWY-622,QFY vs Mod,-0.0624925607,0.1903313073,-0.3283356879,0.7444603328,0.9743049815,False,False,True,starch biosynthesis
+PWY-6277,QFY vs Mod,0.0169127822,0.1364338809,0.1239632128,0.9019978081,0.9743049815,False,False,True,superpathway of 5-aminoimidazole ribonucleotide biosynthesis
+PWY-6305,QFY vs Mod,-0.0918579208,0.1490123888,-0.6164448572,0.5412766008,0.9743049815,False,False,True,superpathway of putrescine biosynthesis
+PWY-6317,QFY vs Mod,0.0710789294,0.1482526327,0.4794446355,0.6343702421,0.9743049815,False,False,True,D-galactose degradation I (Leloir pathway)
+PWY-6328,QFY vs Mod,0.3651084689,0.7299097294,0.5002104427,0.6203496565,0.9743049815,False,False,True,L-lysine degradation X
+PWY-6344,QFY vs Mod,0.1682977417,0.4764476232,0.3532345078,0.7259173163,0.9743049815,False,False,True,L-arginine degradation XIV (oxidative Stickland reaction)
+PWY-6383,QFY vs Mod,-0.1222808483,0.4780964804,-0.2557660499,0.7995109426,0.9743049815,False,False,True,"mono-trans, poly-cis decaprenyl phosphate biosynthesis"
+PWY-6385,QFY vs Mod,0.0223805855,0.1430155425,0.1564905821,0.8764748044,0.9743049815,False,False,True,peptidoglycan biosynthesis III (mycobacteria)
+PWY-6386,QFY vs Mod,0.040261168,0.1449858672,0.2776902934,0.7827553746,0.9743049815,False,False,True,UDP-N-acetylmuramoyl-pentapeptide biosynthesis II (lysine-containing)
+PWY-6387,QFY vs Mod,0.0309835611,0.1435083871,0.2159006993,0.8302199058,0.9743049815,False,False,True,UDP-N-acetylmuramoyl-pentapeptide biosynthesis I (meso-diaminopimelate containing)
+PWY-6396,QFY vs Mod,-0.1304424303,0.2979759981,-0.4377615348,0.6640374071,0.9743049815,False,False,True,"superpathway of 2,3-butanediol biosynthesis"
+PWY-6470,QFY vs Mod,0.0727350309,0.1911707909,0.3804714652,0.705714068,0.9743049815,False,False,True,peptidoglycan biosynthesis V (&beta;-lactam resistance)
+PWY-6527,QFY vs Mod,-0.0299364826,0.1547225323,-0.1934849577,0.8476097156,0.9743049815,False,False,True,stachyose degradation
+PWY-6609,QFY vs Mod,0.0658793913,0.151298023,0.4354279723,0.66571516,0.9743049815,False,False,True,adenine and adenosine salvage III
+PWY-6628,QFY vs Mod,-0.0963013201,0.1679152802,-0.5735113563,0.5696774177,0.9743049815,False,False,True,superpathway of L-phenylalanine biosynthesis
+PWY-6630,QFY vs Mod,-0.0951288358,0.1687674543,-0.5636681326,0.5762915708,0.9743049815,False,False,True,superpathway of L-tyrosine biosynthesis
+PWY-6700,QFY vs Mod,0.0759715115,0.1506068301,0.5044360299,0.6168676464,0.9743049815,False,False,True,queuosine biosynthesis I (de novo)
+PWY-6731,QFY vs Mod,0.0726233045,0.1886147988,0.3850350287,0.7023582339,0.9743049815,False,False,True,starch degradation III
+PWY-6859,QFY vs Mod,-0.106476814,0.1991208082,-0.5347347421,0.5959485793,0.9743049815,False,False,True,all-trans-farnesol biosynthesis
+PWY-6897,QFY vs Mod,0.1081800466,0.1669363558,0.6480316772,0.5208610809,0.9743049815,False,False,True,thiamine diphosphate salvage II
+PWY-6901,QFY vs Mod,-0.0554550942,0.1466321491,-0.3781919215,0.7073925762,0.9743049815,False,False,True,superpathway of glucose and xylose degradation
+PWY-6906,QFY vs Mod,-0.2969613414,0.4999204194,-0.5940172272,0.5561153291,0.9743049815,False,False,True,chitin derivatives degradation
+PWY-6922,QFY vs Mod,-0.0967807642,0.1875687627,-0.5159748502,0.6088614248,0.9743049815,False,False,True,L-N&delta;-acetylornithine biosynthesis
+PWY-6936,QFY vs Mod,0.0522693248,0.1850591558,0.2824465753,0.7791338827,0.9743049815,False,False,True,seleno-amino acid biosynthesis (plants)
+PWY-6969,QFY vs Mod,-0.0594901611,0.1638953492,-0.362976505,0.7186337685,0.9743049815,False,False,True,TCA cycle V (2-oxoglutarate synthase)
+PWY-7013,QFY vs Mod,-0.0876724206,0.4441915601,-0.1973752507,0.8445858828,0.9743049815,False,False,True,"(S)-propane-1,2-diol degradation"
+PWY-7052,QFY vs Mod,-0.1949634863,0.5702285077,-0.3419041378,0.7343067624,0.9743049815,False,False,True,cyanophycin metabolism
+PWY-7090,QFY vs Mod,-0.0438861633,0.2160341074,-0.2031446045,0.840105895,0.9743049815,False,False,True,"UDP-2,3-diacetamido-2,3-dideoxy-&alpha;-D-mannuronate biosynthesis"
+PWY-7111,QFY vs Mod,0.055605746,0.1537213501,0.3617307937,0.7195569545,0.9743049815,False,False,True,pyruvate fermentation to isobutanol (engineered)
+PWY-7220,QFY vs Mod,0.0195302668,0.1339582725,0.1457936595,0.8848549288,0.9743049815,False,False,True,adenosine deoxyribonucleotides de novo biosynthesis II
+PWY-7221,QFY vs Mod,-0.0137004908,0.1421996289,-0.0963468815,0.9237514211,0.9743049815,False,False,True,guanosine ribonucleotides de novo biosynthesis
+PWY-7222,QFY vs Mod,0.0195302668,0.1339582725,0.1457936595,0.8848549288,0.9743049815,False,False,True,guanosine deoxyribonucleotides de novo biosynthesis II
+PWY-7228,QFY vs Mod,0.0729465245,0.1391178363,0.5243506254,0.6030801791,0.9743049815,False,False,True,superpathway of guanosine nucleotides de novo biosynthesis I
+PWY-7229,QFY vs Mod,0.0288698601,0.1348289393,0.214122133,0.8315966605,0.9743049815,False,False,True,superpathway of adenosine nucleotides de novo biosynthesis I
+PWY-7237,QFY vs Mod,0.1697041234,0.2941894809,0.5768531317,0.5674405048,0.9743049815,False,False,True,"myo-, chiro- and scyllo-inositol degradation"
+PWY-7238,QFY vs Mod,0.0506767943,0.1817482985,0.2788295393,0.7818874893,0.9743049815,False,False,True,sucrose biosynthesis II
+PWY-724,QFY vs Mod,0.0334615312,0.1464974055,0.2284104015,0.8205519281,0.9743049815,False,False,True,"superpathway of L-lysine, L-threonine and L-methionine biosynthesis II"
+PWY-7268,QFY vs Mod,0.1555344976,0.293866723,0.5292688333,0.6246297164,0.9743049815,False,False,True,cytosolic NADPH production (yeast)
+PWY-7269,QFY vs Mod,0.1494181181,0.2932883792,0.5094580239,0.6372510621,0.9743049815,False,False,True,mitochondrial NADPH production (yeast)
+PWY-7315,QFY vs Mod,-0.1024557532,0.2318764217,-0.4418549867,0.6610985832,0.9743049815,False,False,True,dTDP-N-acetylthomosamine biosynthesis
+PWY-7323,QFY vs Mod,0.1145017869,0.1749341828,0.6545420971,0.5167050073,0.9743049815,False,False,True,superpathway of GDP-mannose-derived O-antigen building blocks biosynthesis
+PWY-7328,QFY vs Mod,-0.0404839052,0.2181687455,-0.1855623503,0.8537749412,0.9743049815,False,False,True,superpathway of UDP-glucose-derived O-antigen building blocks biosynthesis
+PWY-7345,QFY vs Mod,-0.0612983519,0.1361131974,-0.4503483357,0.655018271,0.9743049815,False,False,True,superpathway of anaerobic sucrose degradation
+PWY-7357,QFY vs Mod,-0.0810489891,0.1522801075,-0.5322362219,0.5976608578,0.9743049815,False,False,True,thiamine phosphate formation from pyrithiamine and oxythiamine (yeast)
+PWY-7376,QFY vs Mod,-0.0315707641,0.3252234638,-0.0970740663,0.9236337895,0.9743049815,False,False,True,"cob(II)yrinate a,c-diamide biosynthesis II (late cobalt incorporation)"
+PWY-7383,QFY vs Mod,-0.1851093439,0.3713845906,-0.4984303296,0.6210536121,0.9743049815,False,False,True,"anaerobic energy metabolism (invertebrates, cytosol)"
+PWY-7392,QFY vs Mod,-0.0260395303,0.1536109761,-0.1695160785,0.8662899452,0.9743049815,False,False,True,taxadiene biosynthesis (engineered)
+PWY-7400,QFY vs Mod,-0.054385767,0.1382197713,-0.3934731369,0.6961691466,0.9743049815,False,False,True,L-arginine biosynthesis IV (archaebacteria)
+PWY-7413,QFY vs Mod,-0.1321207773,0.2894242024,-0.4564952629,0.6601723141,0.9743049815,False,False,True,dTDP-6-deoxy-&alpha;-D-allose biosynthesis
+PWY-7431,QFY vs Mod,-0.1282249463,0.4432153316,-0.2893062065,0.7744784444,0.9743049815,False,False,True,aromatic biogenic amine degradation (bacteria)
+PWY-7456,QFY vs Mod,0.044677995,0.166967557,0.267584888,0.7904659322,0.9743049815,False,False,True,"&beta;-(1,4)-mannan degradation"
+PWY-7480,QFY vs Mod,-0.1850289397,0.299169407,-0.6184754701,0.5589937545,0.9743049815,False,False,True,"2,3-dihydroxybenzoate degradation"
+PWY-7560,QFY vs Mod,0.0465869359,0.172969558,0.2693360404,0.789128227,0.9743049815,False,False,True,methylerythritol phosphate pathway II
+PWY-7663,QFY vs Mod,-0.0262510555,0.1348682509,-0.1946422177,0.8467099588,0.9743049815,False,False,True,gondoate biosynthesis (anaerobic)
+PWY-7761,QFY vs Mod,-0.0423043035,0.1396257,-0.302983645,0.7635548387,0.9743049815,False,False,True,NAD salvage pathway II (PNC IV cycle)
+PWY-7807,QFY vs Mod,0.1131392514,0.3810409721,0.2969214852,0.7681434624,0.9743049815,False,False,True,glyphosate degradation III
+PWY-7820,QFY vs Mod,-0.1196396217,0.2826883403,-0.4232209278,0.6820678194,0.9743049815,False,False,True,teichuronic acid biosynthesis (B. subtilis 168)
+PWY-7858,QFY vs Mod,0.0858944942,0.3502612491,0.2452297947,0.8092143666,0.9743049815,False,False,True,(5Z)-dodecenoate biosynthesis II
+PWY-7873,QFY vs Mod,-0.2857672761,0.6845988903,-0.4174229321,0.6789933063,0.9743049815,False,False,True,D-erythronate degradation II
+PWY-7874,QFY vs Mod,-0.3396475356,0.6784178104,-0.5006465491,0.6198454995,0.9743049815,False,False,True,L-threonate degradation
+PWY-7953,QFY vs Mod,0.03675275,0.1449150115,0.2536158923,0.8011595196,0.9743049815,False,False,True,UDP-N-acetylmuramoyl-pentapeptide biosynthesis III (meso-diaminopimelate containing)
+PWY-7977,QFY vs Mod,0.0261284326,0.1705127338,0.1532344946,0.8790241927,0.9743049815,False,False,True,L-methionine biosynthesis IV
+PWY-8131,QFY vs Mod,-0.3173179926,0.636624007,-0.4984386218,0.6236121552,0.9743049815,False,False,True,5'-deoxyadenosine degradation II
+PWY-8178,QFY vs Mod,-0.0487599312,0.1548815604,-0.3148207643,0.7546199745,0.9743049815,False,False,True,pentose phosphate pathway (non-oxidative branch) II
+PWY-822,QFY vs Mod,0.0859276265,0.4111746998,0.2089808214,0.8355794611,0.9743049815,False,False,True,fructan biosynthesis
+PWY-841,QFY vs Mod,0.0409649665,0.1341791632,0.3053005067,0.7618034077,0.9743049815,False,False,True,superpathway of purine nucleotides de novo biosynthesis I
+PWY-922,QFY vs Mod,-0.1006168651,0.3835737871,-0.2623142366,0.7953176514,0.9743049815,False,False,True,mevalonate pathway I (eukaryotes and bacteria)
+PWY0-1261,QFY vs Mod,0.0828122145,0.181263258,0.4568615582,0.6503715483,0.9743049815,False,False,True,anhydromuropeptides recycling I
+PWY0-1297,QFY vs Mod,-0.0715945556,0.1412888766,-0.5067246431,0.6152758766,0.9743049815,False,False,True,superpathway of purine deoxyribonucleosides degradation
+PWY0-1319,QFY vs Mod,-0.0532817288,0.1384425371,-0.3848653016,0.7024829359,0.9743049815,False,False,True,CDP-diacylglycerol biosynthesis II
+PWY0-1338,QFY vs Mod,-0.147631019,0.7505591601,-0.1966947136,0.8452041739,0.9743049815,False,False,True,polymyxin resistance
+PWY0-1415,QFY vs Mod,-0.2512427549,0.3885043851,-0.6466921985,0.5218229159,0.9743049815,False,False,True,superpathway of heme b biosynthesis from uroporphyrinogen-III
+PWY0-1479,QFY vs Mod,0.1047834846,0.1723754399,0.6078794329,0.5468835245,0.9743049815,False,False,True,tRNA processing
+PWY0-1533,QFY vs Mod,0.1141771401,0.3814144252,0.299351919,0.7663027716,0.9743049815,False,False,True,methylphosphonate degradation I
+PWY0-1586,QFY vs Mod,-0.0458351716,0.1376381217,-0.3330121845,0.7409554816,0.9743049815,False,False,True,peptidoglycan maturation (meso-diaminopimelate containing)
+PWY3O-4107,QFY vs Mod,0.0463815602,0.2016910392,0.2299634152,0.8193536425,0.9743049815,False,False,True,NAD salvage pathway V (PNC V cycle)
+PWY4FS-7,QFY vs Mod,-0.0678261427,0.1363612738,-0.4974003312,0.6217728084,0.9743049815,False,False,True,phosphatidylglycerol biosynthesis I (plastidic)
+PWY4FS-8,QFY vs Mod,-0.0678261427,0.1363612738,-0.4974003312,0.6217728084,0.9743049815,False,False,True,phosphatidylglycerol biosynthesis II (non-plastidic)
+PWY66-373,QFY vs Mod,0.2968083787,0.7512649821,0.3950781491,0.6954065366,0.9743049815,False,False,True,sucrose degradation V (sucrose &alpha;-glucosidase)
+PWY66-389,QFY vs Mod,-0.0824446321,0.2043460875,-0.4034558876,0.6888742191,0.9743049815,False,False,True,phytol degradation
+PWY66-391,QFY vs Mod,0.0615997257,0.3451324283,0.1784814193,0.8603383581,0.9743049815,False,False,True,fatty acid &beta;-oxidation VI (mammalian peroxisome)
+PWY66-399,QFY vs Mod,-0.2288437611,0.3693643021,-0.6195611213,0.5392441258,0.9743049815,False,False,True,gluconeogenesis III
+PWY66-409,QFY vs Mod,0.1876048607,0.3106529714,0.6039049293,0.5494953543,0.9743049815,False,False,True,superpathway of purine nucleotide salvage
+PWY6666-2,QFY vs Mod,-0.2184661153,0.7065244904,-0.3092123745,0.7588945905,0.9743049815,False,False,True,dopamine degradation
+PYRIDNUCSYN-PWY,QFY vs Mod,0.0420529282,0.1763029969,0.2385264511,0.8127544633,0.9743049815,False,False,True,NAD de novo biosynthesis I (from aspartate)
+SER-GLYSYN-PWY,QFY vs Mod,0.0154270405,0.1574822423,0.097960508,0.9224785546,0.9743049815,False,False,True,superpathway of L-serine and glycine biosynthesis I
+THISYNARA-PWY,QFY vs Mod,-0.0554151226,0.1479518827,-0.3745482763,0.7100785912,0.9743049815,False,False,True,superpathway of thiamine diphosphate biosynthesis III (eukaryotes)
+THRESYN-PWY,QFY vs Mod,0.0400871811,0.1440861663,0.2782167235,0.7823543015,0.9743049815,False,False,True,superpathway of L-threonine biosynthesis
+TRNA-CHARGING-PWY,QFY vs Mod,0.019222094,0.1462342805,0.13144725,0.8961150049,0.9743049815,False,False,True,tRNA charging
+VALSYN-PWY,QFY vs Mod,0.0397187513,0.1696986046,0.2340546722,0.8161989872,0.9743049815,False,False,True,L-valine biosynthesis
+SO4ASSIM-PWY,QFY vs Mod,-0.0220350578,0.2588998635,-0.0851103491,0.9326205068,0.9812185977,False,False,True,assimilatory sulfate reduction I
+COA-PWY,QFY vs Mod,-0.0103938402,0.1367193512,-0.0760231823,0.9397995025,0.9824894642,False,False,True,coenzyme A biosynthesis I (prokaryotic)
+PWY-5973,QFY vs Mod,0.0106549305,0.1401114496,0.0760461088,0.9397813836,0.9824894642,False,False,True,cis-vaccenate biosynthesis
+PWY-702,QFY vs Mod,-0.0125489056,0.1678051997,-0.0747825791,0.9407800058,0.9824894642,False,False,True,L-methionine biosynthesis II
+CODH-PWY,QFY vs Mod,-0.0363145223,0.5347536595,-0.0679088803,0.9462142416,0.9845547859,False,False,True,reductive acetyl coenzyme A pathway I (homoacetogenic bacteria)
+P101-PWY,QFY vs Mod,-0.019509829,0.315515823,-0.0618347087,0.9520459014,0.9845547859,False,False,True,ectoine biosynthesis
+P163-PWY,QFY vs Mod,-0.0215251249,0.3460210712,-0.0622075553,0.9507236043,0.9845547859,False,False,True,L-lysine fermentation to acetate and butanoate
+PWY-7851,QFY vs Mod,-0.0085732595,0.1373693512,-0.0624102785,0.9505632348,0.9845547859,False,False,True,coenzyme A biosynthesis II (eukaryotic)
+METH-ACETATE-PWY,QFY vs Mod,-0.0247749747,0.5291471708,-0.0468205749,0.9629014351,0.9918202456,False,False,True,methanogenesis from acetate
+PWY-6270,QFY vs Mod,-0.0059936504,0.1504382105,-0.0398412769,0.9684282587,0.9918202456,False,False,True,isoprene biosynthesis I
+PWY-6612,QFY vs Mod,0.0059572756,0.1485727955,0.0400966783,0.9682259798,0.9918202456,False,False,True,superpathway of tetrahydrofolate biosynthesis
+PWY-7790,QFY vs Mod,0.0057816824,0.1425506293,0.0405587997,0.9678599834,0.9918202456,False,False,True,UMP biosynthesis II
+PWY-8011,QFY vs Mod,0.0079285124,0.235759841,0.0336296139,0.9733485364,0.9920667775,False,False,True,L-serine biosynthesis II
+PWY0-1296,QFY vs Mod,-0.0052665563,0.1547503828,-0.0340325901,0.9730293036,0.9920667775,False,False,True,purine ribonucleosides degradation
+PWY-6168,QFY vs Mod,0.0040896457,0.1473991919,0.0277453737,0.9780104376,0.994427879,False,False,True,flavin biosynthesis III (fungi)
+FUC-RHAMCAT-PWY,QFY vs Mod,0.0021452722,0.1720467504,0.0124691234,0.9901165729,0.9987788181,False,False,True,superpathway of fucose and rhamnose degradation
+PWY-5686,QFY vs Mod,-0.0008867719,0.1413393192,-0.0062740639,0.995026877,0.9987788181,False,False,True,UMP biosynthesis I
+PWY-6313,QFY vs Mod,-0.0008159361,0.5296132283,-0.0015406264,0.9987788181,0.9987788181,False,False,True,serotonin degradation
+PWY-6837,QFY vs Mod,0.0049029103,0.360446337,0.0136023308,0.9893056055,0.9987788181,False,False,True,"fatty acid &beta;-oxidation V (unsaturated, odd number, di-isomerase-dependent)"
+PWY-7791,QFY vs Mod,-0.0004024917,0.1414460678,-0.0028455486,0.9977444701,0.9987788181,False,False,True,UMP biosynthesis III
+RIBOSYN2-PWY,QFY vs Mod,-0.000886643,0.1477046625,-0.0060028098,0.9952418832,0.9987788181,False,False,True,flavin biosynthesis I (bacteria and plants)
+SULFATE-CYS-PWY,QFY vs Mod,-0.0023555537,0.2425543003,-0.0097114488,0.9923023137,0.9987788181,False,False,True,superpathway of sulfate assimilation and cysteine biosynthesis
